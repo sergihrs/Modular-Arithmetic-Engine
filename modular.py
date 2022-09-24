@@ -1,4 +1,6 @@
 from rword import random_word
+import math
+import timeit
 
 
 def es_primo(n: int) -> bool:
@@ -6,7 +8,14 @@ def es_primo(n: int) -> bool:
     Z -> Bool
     Comprueba si un numero entero es primo
     """
-    return random_word()
+    if n < 2:
+        return False
+    if n % 2 == 0:
+        return False
+    for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
+        if n % i == 0:
+            return False
+    return True
 
 
 def lista_primos(a: int, b: int) -> list[int]:
@@ -22,7 +31,17 @@ def factorizar(n: int) -> dict[int, int]:
     Z -> {Z: Z}
     Devuelve un diccionario con los factores primos de n y sus exponentes
     """
-    return n
+    f = {}
+    i = 2
+    while n > 1:
+        e = 0
+        while n % i == 0:
+            n //= i
+            e += 1
+        if e > 0:
+            f[i] = e
+        i += 1
+    return f
 
 
 def mcd(a: int, b: int) -> int:
@@ -71,7 +90,16 @@ def potencia_mod_p(base: int, exp: int, p: int) -> int:
     Z x Z x Z -> Z
     Devuelve base^exp mod p
     """
-    return base, exp, p
+    if exp == 0:
+        return 1
+    if exp == 1:
+        return base % p
+    potencia = 1
+    for bit in bin(exp)[:1:-1]:
+        if bit == "1":
+            potencia = (potencia * base) % p
+        base = (base * base) % p
+    return potencia
 
 
 def inverso_mod_p(n: int, p: int) -> int:
@@ -149,4 +177,24 @@ def tabla_verdad_a_expresion(tabla_verdad: list[int]) -> str:
 
 
 if __name__ == "__main__":
-    print(es_primo(2.1))
+    print("es_primo:")
+    print(timeit.timeit("print(es_primo(1000000007))", globals=globals(), number=1))
+    print("lista_primos:")
+    print(timeit.timeit("print(lista_primos(1, 1000000))", globals=globals(), number=1))
+    print("factorizar:")
+    print(
+        timeit.timeit(
+            "factorizar(n)",
+            setup="n=2**4 * 3**4 * 7**2 * 11 * 13**2 * 97**2",
+            globals=globals(),
+            number=1000000,
+        )
+    )
+    print("potencia_mod_p:")
+    print(
+        timeit.timeit(
+            "potencia_mod_p(12,13241324323312345678765,17)",
+            globals=globals(),
+            number=1,
+        )
+    )

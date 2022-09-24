@@ -128,6 +128,18 @@ def execute_file(fin: str, fout: str):
         raise PermissionError(f"Error: Could not write to file '{fout}'")
 
 
+def run_commands(fin, fout):
+    """
+    fin: TextIO
+    fout: TextIO
+    """
+    for line in fin:
+        try:
+            fout.write(execute(line) + "\n")
+        except Exception as e:
+            fout.write(str(e) + "\n")
+
+
 def batch(fin: str, fout: str):
     try:
         execute_file(fin, fout)
