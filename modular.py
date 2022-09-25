@@ -1,4 +1,3 @@
-from rword import random_word
 import math
 import timeit
 
@@ -25,7 +24,27 @@ def lista_primos(a: int, b: int) -> list[int]:
     Z x Z -> [Z]
     Devuelve una lista de los numeros primos en [a, b)
     """
-    return a, b
+    root = math.floor(math.sqrt(b))
+    primos_potenciales = [True]*root
+    primos = []
+    primos_en_rango = [True]*(b-a)
+    sol = []
+
+    for primo in range(2, root):
+        if primos_potenciales[primo]:
+            primos.append(primo)
+            for num in range(primo**2, root, primo):
+                primos_potenciales[num] = False
+    
+    for primo in primos:
+        for num in range((-a)%primo, b-a, primo):
+            primos_en_rango[num] = False
+    
+    for i, primo in enumerate(primos_en_rango):
+        if primo:
+            sol.append(i+a)
+
+    return sol
 
 
 def factorizar(n: int) -> dict[int, int]:
@@ -191,24 +210,24 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
 
 
 if __name__ == "__main__":
-    print("es_primo:")
-    print(timeit.timeit("print(es_primo(1000000007))", globals=globals(), number=1))
+    # print("es_primo:")
+    # print(timeit.timeit("print(es_primo(1000000007))", globals=globals(), number=1))
     print("lista_primos:")
-    print(timeit.timeit("print(lista_primos(1, 1000000))", globals=globals(), number=1))
-    print("factorizar:")
-    print(
-        timeit.timeit(
-            "factorizar(n)",
-            setup="n=2**4 * 3**4 * 7**2 * 11 * 13**2 * 97**2",
-            globals=globals(),
-            number=1000000,
-        )
-    )
-    print("potencia_mod_p:")
-    print(
-        timeit.timeit(
-            "potencia_mod_p(12,13241324323312345678765,17)",
-            globals=globals(),
-            number=1,
-        )
-    )
+    print(timeit.timeit("lista_primos(90000000, 100000000)", globals=globals(), number=1))
+    # print("factorizar:")
+    # print(
+    #     timeit.timeit(
+    #         "factorizar(n)",
+    #         setup="n=2**4 * 3**4 * 7**2 * 11 * 13**2 * 97**2",
+    #         globals=globals(),
+    #         number=1000000,
+    #     )
+    # )
+    # print("potencia_mod_p:")
+    # print(
+    #     timeit.timeit(
+    #         "potencia_mod_p(12,13241324323312345678765,17)",
+    #         globals=globals(),
+    #         number=1,
+    #     )
+    # )
