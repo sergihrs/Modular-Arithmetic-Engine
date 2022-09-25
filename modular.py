@@ -12,6 +12,8 @@ def es_primo(n: int) -> bool:
         return False
     if n % 2 == 0:
         return False
+    if 2 ** (n - 1) % n != 1:
+        return False
     for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
         if n % i == 0:
             return False
@@ -28,8 +30,9 @@ def lista_primos(a: int, b: int) -> list[int]:
 
 def factorizar(n: int) -> dict[int, int]:
     """
-    Z -> {Z: Z}
+    Z -> {Z: Z, ...}
     Devuelve un diccionario con los factores primos de n y sus exponentes
+    If n is 0 or 1, raise an exception ?
     """
     f = {}
     i = 2
@@ -44,23 +47,29 @@ def factorizar(n: int) -> dict[int, int]:
     return f
 
 
-def mcd(a: int, b: int) -> int:
+def mcd(*args: int) -> int:
     """
-    Z x Z -> Z
-    Devuelve el maximo comun divisor de a y b
+    Z x Z x Z x ... -> Z
+    Devuelve el maximo comun divisor de todos los numeros
     """
-    return a, b
+    if len(args) == 2:
+        a, b = args
+        a, b = min(a, b), max(a, b)
+        while a != 0:
+            a, b = b, b % a
+            a, b = min(a, b), max(a, b)
+        return b
 
 
 def bezout(a: int, b: int) -> tuple[int, int, int]:
     """
     Z x Z -> (Z, Z, Z)
-    Devuelve una tupla (d,x,y) donde d es el (a,b) y (x,y) es una solucion particular de d = ax + by
+    Devuelve una tupla (d,x,y) donde d es el gcd(a,b) y (x,y) es una solucion particular de d = ax + by
     """
     return a, b
 
 
-def mcd_n(nlist: list[int] | int) -> int:
+def mcd_n(nlist: list[int]) -> int:
     """
     [Z] -> Z
     Devuelve el maximo comun divisor de los numeros de nlist
@@ -82,14 +91,17 @@ def coprimos(a: int, b: int) -> bool:
     Z x Z -> Bool
     Comprueba si dos numeros son coprimos
     """
-    return a, b
+    return mcd(a, b) == 1
 
 
 def potencia_mod_p(base: int, exp: int, p: int) -> int:
     """
     Z x Z x Z -> Z
     Devuelve base^exp mod p
+    Raise an exception if exp < 0 and base is not invertible mod p
     """
+    if exp < 0 and mcd(base, p) != 1:
+        raise ValueError("Base must be invertible mod p")
     if exp == 0:
         return 1
     if exp == 1:
@@ -106,6 +118,7 @@ def inverso_mod_p(n: int, p: int) -> int:
     """
     Z x Z -> Z
     Devuelve el inverso de n mod p
+    Raise an exception if n is not invertible mod p
     """
     return n, p
 
@@ -114,6 +127,7 @@ def euler(n: int) -> int:
     """
     Z -> Z
     Devuelve el valor de euler phi de n
+    If n is negative, raise an exception ?
     """
     return n
 
@@ -138,7 +152,7 @@ def resolver_sistema_congruencias(
 
 def raiz_mod_p(n: int, p: int) -> int:
     """
-    Z x Z -> Z
+    Z x Z -> Z (Tupla ?)
     Devuelve una raiz cuadrada de n mod p
     - Si n tiene dos raices distintas x1 < x2, las escribe en orden: “x1, x2”
     - Si n tiene una unica raiz x, escribe “x”
@@ -160,20 +174,20 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
     return a, b, c, p
 
 
-def simplificar_expresion(expresion: str) -> str:
-    """
-    str -> str
-    Simplifica una expresion algebraica
-    """
-    return random_word()
+# def simplificar_expresion(expresion: str) -> str:
+#     """
+#     str -> str
+#     Simplifica una expresion algebraica
+#     """
+#     return random_word()
 
 
-def tabla_verdad_a_expresion(tabla_verdad: list[int]) -> str:
-    """
-    [Bool] -> str
-    Devuelve una expresion algebraica que representa la tabla de verdad
-    """
-    return random_word()
+# def tabla_verdad_a_expresion(tabla_verdad: list[int]) -> str:
+#     """
+#     [Bool] -> str
+#     Devuelve una expresion algebraica que representa la tabla de verdad
+#     """
+#     return random_word()
 
 
 if __name__ == "__main__":

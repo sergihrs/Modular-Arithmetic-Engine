@@ -22,7 +22,7 @@ import imatlab
 
 # Número de repeticiones de la toma de tiempos.
 # Aumentarlo disminuye efectos aleatorios o casuales en el código, pero aumenta el coste de ejecución.
-NITERS = 1000
+NITERS = 100
 
 
 def testRun(in_file: str, out_file: str):
