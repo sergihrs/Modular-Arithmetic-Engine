@@ -221,7 +221,7 @@ def run_commands(fin, fout):
         try:
             output += execute(line) + "\n"
         except Exception as e:
-            output += "NOP" + "\n"
+            output += str(e) + "NOP" + "\n"
     fout.write(output)
 
 

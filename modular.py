@@ -5,7 +5,7 @@ import numpy as np
 
 def mcd(a, b):
     while a != 0:
-        a, b = b%a, a
+        a, b = b % a, a
     return b
 
 
@@ -18,7 +18,7 @@ def es_primo(n: int) -> bool:
         return False
     if n % 2 == 0:
         return False
-    if potencia_mod_p(2, n-1, n) != 1:
+    if potencia_mod_p(2, n - 1, n) != 1:
         return False
     for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
         if n % i == 0:
@@ -32,9 +32,9 @@ def lista_primos(a: int, b: int) -> list[int]:
     Devuelve una lista de los numeros primos en [a, b)
     """
     root = math.floor(math.sqrt(b))
-    primos_potenciales = [True]*root
+    primos_potenciales = [True] * root
     primos = []
-    primos_en_rango = [True]*(b-a)
+    primos_en_rango = [True] * (b - a)
     sol = []
 
     for primo in range(2, root):
@@ -42,30 +42,32 @@ def lista_primos(a: int, b: int) -> list[int]:
             primos.append(primo)
             for num in range(primo**2, root, primo):
                 primos_potenciales[num] = False
-    
+
     for primo in primos:
-        for num in range((-a)%primo, b-a, primo):
+        for num in range((-a) % primo, b - a, primo):
             primos_en_rango[num] = False
-    
+
     for i, primo in enumerate(primos_en_rango):
         if primo:
-            sol.append(i+a)
+            sol.append(i + a)
 
     return sol
 
 
 def factorizar_simple(n: int):
-    '''
+    """
     Returns the prime factors of n in a dictionary in O(sqrt(n))
-    '''
-    factors=dict()
+    """
+    factors = dict()
     while n % 2 == 0:
-        n /= 2
+        n = n >> 2
         factors[2] = factors.get(2, 0) + 1
     for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
         while n % i == 0:
-            n /= i
+            n //= i
             factors[i] = factors.get(i, 0) + 1
+        if n == 1:
+            return factors
     if n != 1:
         factors[n] = 1
     return factors
@@ -77,31 +79,32 @@ def factorizar(n: int) -> dict[int, int]:
     Devuelve un diccionario con los factores primos de n y sus exponentes
     If n is 0 or 1, raise an exception ?
     """
-    g=lambda x: (x**2+1)%n
 
     factors = dict()
-    
-    for primo in (2, 3, 5, 7, 11, 13):
+    firsts = (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37)
+    for primo in firsts:
         c = 0
         while n % primo == 0:
-            n /= primo
+            n //= primo
             c += 1
         if c != 0:
             factors[primo] = c
-
-    if n < 10**8:
+    if n < 10**10:
         return {**factors, **factorizar_simple(n)}
     else:
-        x = y = 2
-        d = 1
-        while d == 1:
-            x = g(x)
-            y = g(g(y))
-            d = mcd(abs(x-y), n)
-        if d != n:
-            return {**factors, **factorizar(d), **factorizar(n//d)}
-        else:
-            return {"No se ha podido factorizar": n}
+        g = lambda x: (x**2 + 1) % n
+        x = 1
+        while x < 5:
+            x += 1
+            y = x
+            d = 1
+            while d == 1:
+                x = g(x)
+                y = g(g(y))
+                d = mcd(abs(x - y), n)
+            if d != n:
+                return {**factors, **factorizar(d), **factorizar(n // d)}
+        return {**factors, **factorizar_simple(n)}
 
 
 def bezout(a: int, b: int) -> tuple[int, int, int]:
@@ -113,7 +116,7 @@ def bezout(a: int, b: int) -> tuple[int, int, int]:
     b_comb = np.array([0, 1])
 
     while a:
-        b_comb = b_comb - a_comb*(b//a)
+        b_comb = b_comb - a_comb * (b // a)
         b = b % a
         if a > b:
             a, b = b, a
@@ -144,7 +147,7 @@ def coprimos(a: int, b: int) -> bool:
     Z x Z -> Bool
     Comprueba si dos numeros son coprimos
     """
-    if (a|b) & 1 == 0 or a == 1 or b == 1:
+    if (a | b) & 1 == 0 or a == 1 or b == 1:
         return False
     return mcd(a, b) == 1
 
@@ -183,7 +186,7 @@ def inverso_mod_p(n: int, p: int) -> int:
     b_comb = 0
 
     while n:
-        a_comb, b_comb = b_comb - a_comb*(p//n), a_comb
+        a_comb, b_comb = b_comb - a_comb * (p // n), a_comb
         p, n = n, p % n
 
     return b_comb
@@ -299,6 +302,7 @@ if __name__ == "__main__":
         timeit.timeit(
             "print(inverso_mod_p(212207101440105399533740733471,343358302784187294870275058337))",
             globals=globals(),
-            number=1,
+            number=10,
         )
+        / 10
     )
