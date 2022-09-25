@@ -1,5 +1,12 @@
 import math
 import timeit
+import numpy as np
+
+
+def mcd(a, b):
+    while a != 0:
+        a, b = b%a, a
+    return b
 
 
 def es_primo(n: int) -> bool:
@@ -11,7 +18,7 @@ def es_primo(n: int) -> bool:
         return False
     if n % 2 == 0:
         return False
-    if 2 ** (n - 1) % n != 1:
+    if potencia_mod_p(2, n-1, n) != 1:
         return False
     for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
         if n % i == 0:
@@ -47,45 +54,72 @@ def lista_primos(a: int, b: int) -> list[int]:
     return sol
 
 
+def factorizar_simple(n: int):
+    '''
+    Returns the prime factors of n in a dictionary in O(sqrt(n))
+    '''
+    factors=dict()
+    while n % 2 == 0:
+        n /= 2
+        factors[2] = factors.get(2, 0) + 1
+    for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
+        while n % i == 0:
+            n /= i
+            factors[i] = factors.get(i, 0) + 1
+    if n != 1:
+        factors[n] = 1
+    return factors
+
+
 def factorizar(n: int) -> dict[int, int]:
     """
     Z -> {Z: Z, ...}
     Devuelve un diccionario con los factores primos de n y sus exponentes
     If n is 0 or 1, raise an exception ?
     """
-    f = {}
-    i = 2
-    while n > 1:
-        e = 0
-        while n % i == 0:
-            n //= i
-            e += 1
-        if e > 0:
-            f[i] = e
-        i += 1
-    return f
+    g=lambda x: (x**2+1)%n
 
+    factors = dict()
+    
+    for primo in (2, 3, 5, 7, 11, 13):
+        c = 0
+        while n % primo == 0:
+            n /= primo
+            c += 1
+        if c != 0:
+            factors[primo] = c
 
-def mcd(*args: int) -> int:
-    """
-    Z x Z x Z x ... -> Z
-    Devuelve el maximo comun divisor de todos los numeros
-    """
-    if len(args) == 2:
-        a, b = args
-        a, b = min(a, b), max(a, b)
-        while a != 0:
-            a, b = b, b % a
-            a, b = min(a, b), max(a, b)
-        return b
+    if n < 10**8:
+        return {**factors, **factorizar_simple(n)}
+    else:
+        x = y = 2
+        d = 1
+        while d == 1:
+            x = g(x)
+            y = g(g(y))
+            d = mcd(abs(x-y), n)
+        if d != n:
+            return {**factors, **factorizar(d), **factorizar(n//d)}
+        else:
+            return {"No se ha podido factorizar": n}
 
 
 def bezout(a: int, b: int) -> tuple[int, int, int]:
     """
     Z x Z -> (Z, Z, Z)
-    Devuelve una tupla (d,x,y) donde d es el gcd(a,b) y (x,y) es una solucion particular de d = ax + by
+    Devuelve una tupla (d,x,y) donde d es el mcd(a,b) y (x,y) es una solucion particular de d = ax + by
     """
-    return a, b
+    a_comb = np.array([1, 0])
+    b_comb = np.array([0, 1])
+
+    while a:
+        b_comb = b_comb - a_comb*(b//a)
+        b = b % a
+        if a > b:
+            a, b = b, a
+        a_comb, b_comb = b_comb, a_comb
+
+    return b, *b_comb
 
 
 def mcd_n(nlist: list[int]) -> int:
@@ -110,6 +144,8 @@ def coprimos(a: int, b: int) -> bool:
     Z x Z -> Bool
     Comprueba si dos numeros son coprimos
     """
+    if (a|b) & 1 == 0 or a == 1 or b == 1:
+        return False
     return mcd(a, b) == 1
 
 
@@ -139,7 +175,18 @@ def inverso_mod_p(n: int, p: int) -> int:
     Devuelve el inverso de n mod p
     Raise an exception if n is not invertible mod p
     """
-    return n, p
+
+    if not coprimos(n, p):
+        raise ValueError("No tiene inversa")
+
+    a_comb = 1
+    b_comb = 0
+
+    while n:
+        a_comb, b_comb = b_comb - a_comb*(p//n), a_comb
+        p, n = n, p % n
+
+    return b_comb
 
 
 def euler(n: int) -> int:
@@ -212,15 +259,31 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
 if __name__ == "__main__":
     # print("es_primo:")
     # print(timeit.timeit("print(es_primo(1000000007))", globals=globals(), number=1))
-    print("lista_primos:")
-    print(timeit.timeit("lista_primos(90000000, 100000000)", globals=globals(), number=1))
+    # print("lista_primos:")
+    # print(timeit.timeit("lista_primos(90000000, 100000000)", globals=globals(), number=1))
     # print("factorizar:")
     # print(
     #     timeit.timeit(
-    #         "factorizar(n)",
-    #         setup="n=2**4 * 3**4 * 7**2 * 11 * 13**2 * 97**2",
+    #         "print(factorizar(n))",
+    #         setup="n=280951972823",
     #         globals=globals(),
-    #         number=1000000,
+    #         number=1,
+    #     )
+    # )
+    # print("mcd:")
+    # print(
+    #     timeit.timeit(
+    #         "print(mcd(1200901,1939917))",
+    #         globals=globals(),
+    #         number=1,
+    #     )
+    # )
+    # print("bezout:")
+    # print(
+    #     timeit.timeit(
+    #         "print(bezout(99, 105))",
+    #         globals=globals(),
+    #         number=1,
     #     )
     # )
     # print("potencia_mod_p:")
@@ -231,3 +294,11 @@ if __name__ == "__main__":
     #         number=1,
     #     )
     # )
+    print("inversa_mod_p:")
+    print(
+        timeit.timeit(
+            "print(inverso_mod_p(212207101440105399533740733471,343358302784187294870275058337))",
+            globals=globals(),
+            number=1,
+        )
+    )
