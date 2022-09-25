@@ -1,12 +1,7 @@
 import math
 import timeit
 import numpy as np
-
-
-def mcd(a, b):
-    while a != 0:
-        a, b = b%a, a
-    return b
+import random
 
 
 def es_primo(n: int) -> bool:
@@ -14,11 +9,47 @@ def es_primo(n: int) -> bool:
     Z -> Bool
     Comprueba si un numero entero es primo
     """
+    def miller_test(d, n):
+        a = 2 + random.randint(1, n - 4)
+
+        x = potencia_mod_p(a, d, n)
+
+        if x == 1 or x == n - 1:
+            return True
+
+        while d != n - 1:
+            x = (x * x) % n
+            d *= 2
+
+            if x == 1:
+                return False
+            if x == n - 1:
+                return True
+
+        return False
+
+    def is_probably_prime(n, k):
+
+        if n <= 1 or n == 4:
+            return False
+        if n <= 3:
+            return True
+
+        d = n - 1
+        while d % 2 == 0:
+            d //= 2
+
+        for _ in range(k):
+            if miller_test(d, n) == False:
+                return False
+
+        return True
+
     if n < 2:
         return False
     if n % 2 == 0:
         return False
-    if potencia_mod_p(2, n-1, n) != 1:
+    if not is_probably_prime(n, 4):
         return False
     for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
         if n % i == 0:
@@ -42,11 +73,11 @@ def lista_primos(a: int, b: int) -> list[int]:
             primos.append(primo)
             for num in range(primo**2, root, primo):
                 primos_potenciales[num] = False
-    
+
     for primo in primos:
         for num in range((-a)%primo, b-a, primo):
             primos_en_rango[num] = False
-    
+
     for i, primo in enumerate(primos_en_rango):
         if primo:
             sol.append(i+a)
@@ -104,6 +135,17 @@ def factorizar(n: int) -> dict[int, int]:
             return {"No se ha podido factorizar": n}
 
 
+def mcd(*args: int) -> int:
+    """
+    Z x Z x Z x ... -> Z
+    Devuelve el máximo común divisor de todos los números
+    """
+    a, b = args
+    while a != 0:
+        a, b = b%a, a
+    return b
+
+
 def bezout(a: int, b: int) -> tuple[int, int, int]:
     """
     Z x Z -> (Z, Z, Z)
@@ -113,11 +155,8 @@ def bezout(a: int, b: int) -> tuple[int, int, int]:
     b_comb = np.array([0, 1])
 
     while a:
-        b_comb = b_comb - a_comb*(b//a)
-        b = b % a
-        if a > b:
-            a, b = b, a
-        a_comb, b_comb = b_comb, a_comb
+        a_comb, b_comb = b_comb - a_comb*(b//a), a_comb
+        a, b = b % a, a
 
     return b, *b_comb
 
@@ -144,7 +183,7 @@ def coprimos(a: int, b: int) -> bool:
     Z x Z -> Bool
     Comprueba si dos numeros son coprimos
     """
-    if (a|b) & 1 == 0 or a == 1 or b == 1:
+    if (a|b) & 1 == 0:
         return False
     return mcd(a, b) == 1
 
@@ -162,8 +201,9 @@ def potencia_mod_p(base: int, exp: int, p: int) -> int:
     if exp == 1:
         return base % p
     potencia = 1
-    for bit in bin(exp)[:1:-1]:
-        if bit == "1":
+    bin_str = bin(exp)
+    for i in range(len(bin_str)-1, 1, -1):
+        if bin_str[i] == "1":
             potencia = (potencia * base) % p
         base = (base * base) % p
     return potencia
@@ -176,7 +216,7 @@ def inverso_mod_p(n: int, p: int) -> int:
     Raise an exception if n is not invertible mod p
     """
 
-    if not coprimos(n, p):
+    if p == 1 or not coprimos(n, p):
         raise ValueError("No tiene inversa")
 
     a_comb = 1
