@@ -22,7 +22,7 @@ import imatlab
 
 # Número de repeticiones de la toma de tiempos.
 # Aumentarlo disminuye efectos aleatorios o casuales en el código, pero aumenta el coste de ejecución.
-NITERS = 1
+NITERS = 10
 
 
 def testRun(in_file: str, out_file: str):
@@ -83,8 +83,9 @@ if __name__ == "__main__":
     #            "invTest.txt","eulerTest.txt","sistemaTest.txt","cuadraticaTest.txt"]
     # out_files=["primosTest_out.txt","factorTest_out.txt","mcdTest_out.txt","potenciaTest_out.txt",
     #            "invTest_out.txt","eulerTest_out.txt","sistemaTest_out.txt","cuadraticaTest_out.txt"]
-    in_files = ["tests/factorTest.txt"]
-    out_files = ["tests/factorOut.txt"]
+    # Profiling command: python imatlab_benchmark.py | grep -E "modular.py|ncalls"
+    in_files = ["tests/primosTest.txt"]
+    out_files = ["tests/primosOut.txt"]
 
     # Lista de tiempos obtenidos
     runtime = []
@@ -92,7 +93,7 @@ if __name__ == "__main__":
         # Comentar una línea o la otra para alternar benchmarking/profiling
         try:
             runtime.append(measureTime(in_files[i], out_files[i]))
-        #    profile(in_files[i],out_files[i])
+            # profile(in_files[i], out_files[i])
         except IOError:
             runtime.append(0)
             print("El fichero " + in_files[i] + " no existe.\n")

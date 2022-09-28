@@ -1,0 +1,5 @@
+primosTest,0.33
+factorTest,0.43
+mcdTest,0.53
+potenciaTest,0.051
+invTest,1.7
