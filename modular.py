@@ -4,24 +4,6 @@ import numpy as np
 import random
 
 
-def es_primo2(n: int) -> bool:
-    """
-    Z -> Bool
-    Comprueba si un numero entero es primo
-    """
-
-    if n < 2:
-        return False
-    if n % 2 == 0:
-        return False
-    if potencia_mod_p(2, n - 1, n) != 1:
-        return False
-    for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
-        if n % i == 0:
-            return False
-    return True
-
-
 def a_sprp(n: int, a: int) -> bool:
     """
     Z x Z -> Bool
@@ -74,27 +56,23 @@ def lista_primos(a: int, b: int) -> list[int]:
     Z x Z -> [Z]
     Devuelve una lista de los numeros primos en [a, b)
     """
-
-    a = max(a, 2)
-
-    root = math.floor(math.sqrt(b))
-    primos_potenciales = [True] * root
+    root = int(math.sqrt(b))
     primos = []
-    primos_en_rango = [True] * (b - a)
-    sol = []
-
-    for primo in range(2, root):
-        if primos_potenciales[primo]:
-            primos.append(primo)
-            for num in range(primo**2, root, primo):
-                primos_potenciales[num] = False
+    es_primo = [True] * root
+    for i in range(2, root):
+        if es_primo[i]:
+            primos.append(i)
+            for j in range(i * i, root, i):
+                es_primo[j] = False
+    es_primo_ab = [True] * (b - a)
     for primo in primos:
-        for num in range(primo + ((-a) % primo), b - a, primo):
-            primos_en_rango[num] = False
-    for i, primo in enumerate(primos_en_rango):
-        if primo:
-            sol.append(i + a)
-    return sol
+        for i in range(primo + ((-a) % primo), b - a, primo):
+            es_primo_ab[i] = False
+    primos_ab = []
+    for i in range(b - a):
+        if es_primo_ab[i]:
+            primos_ab.append(i + a)
+    return primos_ab
 
 
 def factorizar_simple(n: int):
@@ -120,7 +98,7 @@ def factorizar(n: int) -> dict[int, int]:
     """
     Z -> {Z: Z, ...}
     Devuelve un diccionario con los factores primos de n y sus exponentes
-    If n is 0 or 1, raise an exception ? -> 0:0 1:1
+    If n is 0 or 1, raise an exception ?
     """
 
     factors = dict()
@@ -157,8 +135,8 @@ def mcd(*args: int) -> int:
     1->1? 0->inf?
     negative numbers?
     """
-    a, b = args
-    while a != 0:
+    a, b = min(args), max(args)
+    while a:
         a, b = b % a, a
     return b
 
@@ -168,14 +146,14 @@ def bezout(a: int, b: int) -> tuple[int, int, int]:
     Z x Z -> (Z, Z, Z)
     Devuelve una tupla (d,x,y) donde d es el mcd(a,b) y (x,y) es una solucion particular de d = ax + by
     """
-    a_comb = np.array([1, 0])
-    b_comb = np.array([0, 1])
+    a_coeffs = np.array([1, 0])
+    b_coeffs = np.array([0, 1])
 
     while a:
-        a_comb, b_comb = b_comb - a_comb * (b // a), a_comb
+        a_coeffs, b_coeffs = b_coeffs - a_coeffs * (b // a), a_coeffs
         a, b = b % a, a
 
-    return b, *b_comb
+    return b, *b_coeffs
 
 
 def mcd_n(nlist: list[int]) -> int:
@@ -214,12 +192,13 @@ def potencia_mod_p(base: int, exp: int, p: int) -> int:
 
     base %= p
 
-    if exp < 0 and mcd(base, p) != 1:
-        raise ValueError("Base must be invertible mod p (NE)")
-    if exp == 0:
+    if exp < 0:
+        base = inverso_mod_p(base, p)
+        exp = -exp
+    elif exp == 0:
         return 1
-    if exp == 1:
-        return base % p
+    elif exp == 1:
+        return base
     potencia = 1
     bin_str = bin(exp)
     for i in range(len(bin_str) - 1, 1, -1):
