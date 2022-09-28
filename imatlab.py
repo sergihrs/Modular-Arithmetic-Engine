@@ -15,7 +15,7 @@ class Imatlab:
         # raw_input = raw_input.strip()
         first_paren = raw_input.index("(")
         func = raw_input[:first_paren]
-        args = raw_input[first_paren + 1 : -1].split(",")
+        args = raw_input[first_paren + 1 : -2].split(",")
         parsed_args = []
         for arg in args:
             if arg[0] == "[":

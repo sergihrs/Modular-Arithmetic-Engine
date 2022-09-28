@@ -1,25 +1,5 @@
 import math
-import timeit
 import numpy as np
-import random
-
-
-def es_primo2(n: int) -> bool:
-    """
-    Z -> Bool
-    Comprueba si un numero entero es primo
-    """
-
-    if n < 2:
-        return False
-    if n % 2 == 0:
-        return False
-    if potencia_mod_p(2, n - 1, n) != 1:
-        return False
-    for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
-        if n % i == 0:
-            return False
-    return True
 
 
 def a_sprp(n: int, a: int) -> bool:
