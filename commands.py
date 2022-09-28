@@ -28,7 +28,7 @@ class Command:
         try:
             output = self.function(*parsed_args)
         except Exception as e:
-            raise ValueError(f"Error: {e} (NE)")
+            raise ValueError(f"Error: {e}")
         # Parse the output
         return self.parse_output(output)
 

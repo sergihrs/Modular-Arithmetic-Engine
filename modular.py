@@ -35,16 +35,15 @@ def es_primo(n: int) -> bool:
         return False
     if n <= 3:
         return True
+    exceptions = [25326001, 161304001, 960946321]
+    if n in exceptions:
+        return False
     if n <= 2047:
         bases = [2]
     elif n <= 1373653:
         bases = [2, 3]
-    elif n <= 25326001:
+    else:
         bases = [2, 3, 5]
-    elif n <= 3215031751:
-        bases = [2, 3, 5, 7]
-    if n == 3215031751:
-        return False
     for a in bases:
         if not a_sprp(n, a):
             return False
@@ -56,6 +55,7 @@ def lista_primos(a: int, b: int) -> list[int]:
     Z x Z -> [Z]
     Devuelve una lista de los numeros primos en [a, b)
     """
+    a = max(a, 2)
     root = int(math.sqrt(b))
     primos = []
     es_primo = [True] * root
@@ -189,9 +189,6 @@ def potencia_mod_p(base: int, exp: int, p: int) -> int:
     Devuelve base^exp mod p
     Raise an exception if exp < 0 and base is not invertible mod p
     """
-
-    base %= p
-
     if exp < 0:
         base = inverso_mod_p(base, p)
         exp = -exp
@@ -201,6 +198,7 @@ def potencia_mod_p(base: int, exp: int, p: int) -> int:
         return base
     potencia = 1
     bin_str = bin(exp)
+    base = base % p
     for i in range(len(bin_str) - 1, 1, -1):
         if bin_str[i] == "1":
             potencia = (potencia * base) % p
@@ -299,7 +297,7 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
 
 if __name__ == "__main__":
     # print("es_primo:")
-    # print(timeit.timeit("print(es_primo(1000000007))", globals=globals(), number=1))
+    # print(timeit.timeit("print(es_primo(383904623))", globals=globals(), number=1))
     # print("lista_primos:")
     # print(timeit.timeit("lista_primos(1, 1000000)", globals=globals(), number=1))
     # print("factorizar:")
