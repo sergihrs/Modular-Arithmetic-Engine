@@ -215,15 +215,14 @@ def inverso_mod_p(n: int, p: int) -> int:
 
     n = n % p
 
-    if p == 1 or not coprimos(n, p):
-        raise ValueError(f"{n} no tiene inversa mod {p} (NE)")
-
     a_comb = 1
     b_comb = 0
 
     while n:
         a_comb, b_comb = b_comb - a_comb * (p // n), a_comb
         p, n = n, p % n
+
+    assert p != 1, f"{n} no tiene inversa mod {p} (NE)"
 
     return b_comb
 
@@ -232,8 +231,10 @@ def euler(n: int) -> int:
     """
     Z -> Z
     Devuelve el valor de euler phi de n
-    If n is negative, raise an exception ?
     """
+    primes = factorizar(n).keys()
+    for p in primes:
+        n -= n // p
     return n
 
 
@@ -242,7 +243,7 @@ def legendre(n: int, p: int) -> int:
     Z x Z -> Z
     Devuelve el simbolo de legendre de n y p
     """
-    return n, p
+    return potencia_mod_p(n, (p - 1) // 2, p)
 
 
 def resolver_sistema_congruencias(
