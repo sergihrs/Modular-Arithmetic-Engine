@@ -84,16 +84,16 @@ if __name__ == "__main__":
     # out_files=["primosTest_out.txt","factorTest_out.txt","mcdTest_out.txt","potenciaTest_out.txt",
     #            "invTest_out.txt","eulerTest_out.txt","sistemaTest_out.txt","cuadraticaTest_out.txt"]
     # Profiling command: python imatlab_benchmark.py | grep -E "modular.py|ncalls"
-    in_files = ["tests/primosTest.txt"]
-    out_files = ["tests/primosOut.txt"]
+    in_files = ["tests/eulerTest.txt"]
+    out_files = ["tests/eulerOut.txt"]
 
     # Lista de tiempos obtenidos
     runtime = []
     for i in range(0, len(in_files)):
         # Comentar una línea o la otra para alternar benchmarking/profiling
         try:
-            # runtime.append(measureTime(in_files[i], out_files[i]))
-            profile(in_files[i], out_files[i])
+            runtime.append(measureTime(in_files[i], out_files[i]))
+            # profile(in_files[i], out_files[i])
         except IOError:
             runtime.append(0)
             print("El fichero " + in_files[i] + " no existe.\n")
