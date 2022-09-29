@@ -100,7 +100,8 @@ def factorizar(n: int) -> dict[int, int]:
     Devuelve un diccionario con los factores primos de n y sus exponentes
     If n is 0 or 1, raise an exception ?
     """
-
+    if n == 1:
+        return {1: 1}
     factors = dict()
     firsts = (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37)
     for primo in firsts:
@@ -230,12 +231,14 @@ def inverso_mod_p(n: int, p: int) -> int:
 def euler(n: int) -> int:
     """
     Z -> Z
-    Devuelve el valor de euler phi de n
+    Devuelve el valor de euler totient of n
+    If n is negative, raise an exception ?
     """
-    primes = factorizar(n).keys()
-    for p in primes:
-        n -= n // p
-    return n
+    primos = factorizar(n).keys()
+    tot = n
+    for primo in primos:
+        tot -= tot / primo
+    return tot
 
 
 def legendre(n: int, p: int) -> int:
@@ -349,4 +352,4 @@ if __name__ == "__main__":
     #         print(i)
     # print(miller_test(4))
     # print(sprp(4, 2))
-    pass
+    print(euler(21))
