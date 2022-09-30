@@ -1,11 +1,28 @@
 import sys
 import os
-from commands import COMMANDS
+from commands import *
+from modular import Module
 
 
 class Imatlab:
     def __init__(self):
-        pass
+        self.module = Module()
+        self.COMMANDS = {
+            "primo": EsPrimo(self.module.es_primo_module),
+            "primos": ListaPrimos(self.module.lista_primos_module),
+            "factorizar": Factorizar(self.module.factorizar_module),
+            "mcd": MCD(self.module.mcd_module),
+            "coprimos": Coprimos(self.module.coprimos_module),
+            "pow": PotenciaModP(self.module.potencia_mod_p_module),
+            "inv": InversoModP(self.module.inverso_mod_p_module),
+            "euler": Euler(self.module.euler_module),
+            "legendre": Legendre(self.module.legendre_module),
+            "resolverSistema": ResolverSistema(
+                self.module.resolver_sistema_congruencias_module
+            ),
+            "raiz": RaizModP(self.module.raiz_mod_p_module),
+            "ecCuadratica": EcuacionCuadratica(self.module.ecuacion_cuadratica_module),
+        }
 
     def parse_command(self, raw_input: str) -> tuple[str, list]:
         """
@@ -35,10 +52,10 @@ class Imatlab:
         except:
             raise ValueError("Error: Invalid input (NOP)")
 
-        if name not in COMMANDS:
+        if name not in self.COMMANDS:
             raise ValueError(f"Error: Invalid command '{name}' (NOP)")
 
-        output = COMMANDS[name].execute(args)
+        output = self.COMMANDS[name].execute(args)
 
         return output
 
@@ -82,7 +99,6 @@ def run_commands(fin, fout):
     fin: TextIO
     fout: TextIO
     """
-    imatlab = Imatlab()
     output = ""
     for line in fin:
         try:
@@ -91,6 +107,9 @@ def run_commands(fin, fout):
             output += str(e) + "\n"
     fout.write(output)
 
+
+if "imatlab" not in globals():
+    imatlab = Imatlab()
 
 if __name__ == "__main__":
     imatlab = Imatlab()
