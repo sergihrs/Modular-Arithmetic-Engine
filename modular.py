@@ -1,5 +1,4 @@
 import math
-import timeit
 import numpy as np
 import random
 
