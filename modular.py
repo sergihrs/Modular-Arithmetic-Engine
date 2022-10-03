@@ -132,6 +132,17 @@ class Module:
                     }
             return {**factors, **self.factorizar_simple_module(n)}
 
+    def mcd_simple_module(self, a: int, b: int) -> int:
+        """
+        Z x Z -> Z
+        Devuelve el maximo comun divisor de a y b usando euclides
+        """
+        if a > b:
+            a, b = b, a
+        while b:
+            a, b = b, a % b
+        return a
+
     def mcd_module(self, *args: int) -> int:
         """
         Z x Z -> Z
@@ -191,7 +202,7 @@ class Module:
         """
         if (a | b) & 1 == 0:
             return False
-        return self.mcd_module(a, b) == 1
+        return self.mcd_simple_module(a, b) == 1
 
     def potencia_mod_p_module(self, base: int, exp: int, p: int) -> int:
         """
@@ -284,6 +295,7 @@ class Module:
 
 
 if "imatlab_module" not in globals():
+    print("Initializing imatlab_module")
     imatlab_module = Module()
 
 

@@ -1,17 +1,21 @@
 import sys
 import os
 from commands import *
-from modular import Module
+import modular
 
 
 class Imatlab:
     def __init__(self):
-        self.module = Module()
+        if "imatlab_module" in globals():
+            self.module = globals()["imatlab_module"]
+        else:
+            self.module = modular.Module()
         self.COMMANDS = {
             "primo": EsPrimo(self.module.es_primo_module),
             "primos": ListaPrimos(self.module.lista_primos_module),
             "factorizar": Factorizar(self.module.factorizar_module),
             "mcd": MCD(self.module.mcd_module),
+            "bezout": Bezout(self.module.bezout_module),
             "coprimos": Coprimos(self.module.coprimos_module),
             "pow": PotenciaModP(self.module.potencia_mod_p_module),
             "inv": InversoModP(self.module.inverso_mod_p_module),
@@ -109,6 +113,7 @@ def run_commands(fin, fout):
 
 
 if "imatlab" not in globals():
+    print("Initializing imatlab...")
     imatlab = Imatlab()
 
 if __name__ == "__main__":

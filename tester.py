@@ -17,4 +17,17 @@ def testPrimos():
     print("All tests passed")
 
 
-testPrimos()
+def testSistema():
+    lab = Imatlab()
+    with open("tests/sistemaTest.txt", "r") as f:
+        for line in f:
+            name, args = lab.parse_command(line)
+            if name == "resolverSistema":
+                print(args)
+                my_sol = lab.COMMANDS[name].execute(args)
+                x = my_sol[0]
+                assert all((a * x) % m == b for a, b, m in args[0])
+    print("All tests passed")
+
+
+testSistema()

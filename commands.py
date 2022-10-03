@@ -80,6 +80,20 @@ class MCD(Command):
         return True
 
 
+class Bezout(Command):
+    def __init__(self, function):
+        super().__init__(function)
+
+    def check_args(self, args: list) -> bool:
+        for arg in args:
+            if not isinstance(arg, int):
+                return False
+        return True
+
+    def parse_output(self, output) -> str:
+        return f"{output[0]}, {output[1]}"
+
+
 class Coprimos(Command):
     def __init__(self, function):
         super().__init__(function)
@@ -140,6 +154,9 @@ class ResolverSistema(Command):
                 if not isinstance(x, int):
                     return False
         return True
+
+    def parse_args(self, args: list[list[int]]) -> list[list[int]]:
+        return [x[0] for x in args], [x[1] for x in args], [x[2] for x in args]
 
 
 class RaizModP(Command):
