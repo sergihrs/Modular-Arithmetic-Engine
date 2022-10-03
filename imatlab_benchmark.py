@@ -22,7 +22,7 @@ import imatlab
 
 # Número de repeticiones de la toma de tiempos.
 # Aumentarlo disminuye efectos aleatorios o casuales en el código, pero aumenta el coste de ejecución.
-NITERS = 250
+NITERS = 10
 
 
 def testRun(in_file: str, out_file: str):
@@ -84,8 +84,8 @@ if __name__ == "__main__":
     # out_files=["primosTest_out.txt","factorTest_out.txt","mcdTest_out.txt","potenciaTest_out.txt",
     #            "invTest_out.txt","eulerTest_out.txt","sistemaTest_out.txt","cuadraticaTest_out.txt"]
     # Profiling command: python imatlab_benchmark.py | grep -E "modular.py|ncalls"
-    in_files = ["tests/sistemaTest.txt"]
-    out_files = ["tests/sistemaOut.txt"]
+    in_files = ["tests/eulerTest.txt"]
+    out_files = ["tests/eulerOut.txt"]
 
     # Lista de tiempos obtenidos
     runtime = []

@@ -232,10 +232,14 @@ def inverso_mod_p(n: int, p: int) -> int:
 def euler(n: int) -> int:
     """
     Z -> Z
-    Devuelve el valor de euler phi de n
+    Devuelve el valor de euler totient of n
     If n is negative, raise an exception ?
     """
-    return n
+    primos = factorizar(n).keys()
+    tot = n
+    for primo in primos:
+        tot -= tot / primo
+    return tot
 
 
 def legendre(n: int, p: int) -> int:
@@ -243,7 +247,7 @@ def legendre(n: int, p: int) -> int:
     Z x Z -> Z
     Devuelve el simbolo de legendre de n y p
     """
-    return n, p
+    return potencia_mod_p(n, (p - 1) // 2, p)
 
 
 def resolver_sistema_congruencias(
