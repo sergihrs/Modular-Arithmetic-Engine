@@ -1,4 +1,3 @@
-from rword import random_word
 import math
 import timeit
 
