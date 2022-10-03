@@ -253,7 +253,35 @@ def resolver_sistema_congruencias(
     [Z] x [Z] x [Z] -> (Z, [Z])
     Resuelve el sistema de congruencias lineal y devuelve una tupla (r,m) donde r es la solucion modulo m
     """
-    return alist, blist, plist
+    size = len(plist)
+    for k in range(size):
+        a = alist[k]
+        b = blist[k]
+        p = plist[k]
+        gcd = mcd(mcd(a, b), p)
+        if gcd > 1:
+            alist[k] = a//gcd
+            blist[k] = b//gcd
+            plist[k] = p//gcd
+
+    # for k1, p1 in enumerate(plist):
+    #     for p2 in plist[k1+1:]:
+    #         gcd = mcd(p1, p2)
+    #         if gcd > 1:
+    #             raise ValueError(f"Los números {p1} y {p2} no son coprimos, tienen mcd={gcd}")
+
+    m = 1
+    for p in plist:
+        m *= p
+
+    x = 0
+    for a, b, p in zip(alist, blist, plist):
+        nk = m//p
+        xk = inverso_mod_p(nk, p)
+        a_inv = inverso_mod_p(a, p)
+        x += nk*xk*a_inv
+
+    return x%m, m
 
 
 def raiz_mod_p(n: int, p: int) -> int:
@@ -349,4 +377,4 @@ if __name__ == "__main__":
     #         print(i)
     # print(miller_test(4))
     # print(sprp(4, 2))
-    pass
+    print(resolver_sistema_congruencias([6519037604], [8972153143], [1297334945]))
