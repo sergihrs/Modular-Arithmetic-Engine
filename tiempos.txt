@@ -1,0 +1,7 @@
+función,tiempo msi,tiempo icai,tiempo david
+primosTest,0.30,0.69,0.73
+factorTest,0.43,1.07,1.99
+mcdTest,0.44,1.02,1.00
+potenciaTest,0.051,0.122,0.12
+invTest,1.25,3.5,3.125
+eulerTest,0.43,,0.78
