@@ -85,23 +85,23 @@ if __name__ == "__main__":
     #            "invTest_out.txt","eulerTest_out.txt","sistemaTest_out.txt","cuadraticaTest_out.txt"]
     # Profiling command: python imatlab_benchmark.py | grep -E "modular.py|ncalls"
     in_files = [
-        "tests/primosTest.txt",
-        "tests/factorTest.txt",
-        "tests/mcdTest.txt",
-        "tests/potenciaTest.txt",
-        "tests/invTest.txt",
-        "tests/eulerTest.txt",
-        # "tests/sistemaTest.txt",
+        # "tests/primosTest.txt",
+        # "tests/factorTest.txt",
+        # "tests/mcdTest.txt",
+        # "tests/potenciaTest.txt",
+        # "tests/invTest.txt",
+        # "tests/eulerTest.txt",
+        "tests/sistemaTest.txt",
         # "tests/cuadraticaTest.txt",
     ]
     out_files = [
-        "tests/primosOut.txt",
-        "tests/factorOut.txt",
-        "tests/mcdOut.txt",
-        "tests/potenciaOut.txt",
-        "tests/invOut.txt",
-        "tests/eulerOut.txt",
-        # "tests/sistemaOut.txt",
+        # "tests/primosOut.txt",
+        # "tests/factorOut.txt",
+        # "tests/mcdOut.txt",
+        # "tests/potenciaOut.txt",
+        # "tests/invOut.txt",
+        # "tests/eulerOut.txt",
+        "tests/sistemaOut.txt",
         # "tests/cuadraticaOut.txt",
     ]
 

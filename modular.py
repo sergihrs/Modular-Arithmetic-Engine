@@ -267,7 +267,29 @@ class Module:
         [Z] x [Z] x [Z] -> (Z, [Z])
         Resuelve el sistema de congruencias lineal y devuelve una tupla (r,m) donde r es la solucion modulo m
         """
-        return alist, blist, plist
+        size = len(plist)
+        for k in range(size):
+            a = alist[k]
+            b = blist[k]
+            p = plist[k]
+            gcd = self.mcd_module(self.mcd_module(a, b), p)
+            if gcd > 1:
+                alist[k] = a // gcd
+                blist[k] = b // gcd
+                plist[k] = p // gcd
+
+        m = 1
+        for p in plist:
+            m *= p
+
+        x = 0
+        for a, b, p in zip(alist, blist, plist):
+            nk = m // p
+            xk = self.inverso_mod_p_module(nk, p)
+            a_inv = self.inverso_mod_p_module(a, p)
+            x += nk * xk * a_inv
+
+        return x % m, m
 
     def raiz_mod_p_module(self, n: int, p: int) -> int:
         """
