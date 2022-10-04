@@ -173,8 +173,17 @@ class EcuacionCuadratica(Command):
 
     def check_args(self, args: list) -> bool:
         return (
-            len(args) == 3
+            len(args) == 4
             and isinstance(args[0], int)
             and isinstance(args[1], int)
             and isinstance(args[2], int)
+            and isinstance(args[3], int)
         )
+
+    def parse_output(self, output) -> str:
+        x1, x2 = output
+        if x1 == x2:
+            return f"{x1}"
+        if x1 > x2:
+            return f"{x2}, {x1}"
+        return f"{x1}, {x2}"

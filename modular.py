@@ -7,6 +7,7 @@ import random
 class Module:
     def __init__(self):
         self.cache = {}
+        self.fp2 = Fp2(self.legendre_module)
 
     def a_sprp_module(self, n: int, a: int) -> bool:
         """
@@ -159,7 +160,7 @@ class Module:
             return b
         else:
             while b:
-                r, b = a % b, b
+                r, a = a % b, b
                 if r > b >> 1:
                     b = b - r
                 else:
@@ -238,7 +239,7 @@ class Module:
         while n:
             a_comb, b_comb = b_comb - a_comb * (p // n), a_comb
             p, n = n, p % n
-        assert p != 1, f"{n} no tiene inversa mod {p} (NE)"
+        assert p == 1, f"{n} no tiene inversa mod {p} (NE)"
         return b_comb
 
     def euler_module(self, n: int) -> int:
@@ -258,7 +259,9 @@ class Module:
         Z x Z -> Z
         Devuelve el simbolo de legendre de n y p
         """
-        return self.potencia_mod_p_module(n, (p - 1) // 2, p)
+        l = self.potencia_mod_p_module(n, (p - 1) // 2, p)
+        if l not in (0, 1):
+            return -1
 
     def resolver_sistema_congruencias_module(
         self, alist: list[int], blist: list[int], plist: list[int]
@@ -272,23 +275,20 @@ class Module:
             a = alist[k]
             b = blist[k]
             p = plist[k]
-            gcd = self.mcd_module(self.mcd_module(a, b), p)
+            gcd = self.mcd_simple_module(self.mcd_simple_module(a, b), p)
             if gcd > 1:
                 alist[k] = a // gcd
                 blist[k] = b // gcd
                 plist[k] = p // gcd
-
         m = 1
         for p in plist:
             m *= p
-
         x = 0
         for a, b, p in zip(alist, blist, plist):
             nk = m // p
             xk = self.inverso_mod_p_module(nk, p)
             a_inv = self.inverso_mod_p_module(a, p)
             x += nk * xk * a_inv
-
         return x % m, m
 
     def raiz_mod_p_module(self, n: int, p: int) -> int:
@@ -300,7 +300,17 @@ class Module:
         - Si n no tiene raices, como con el resto de comandos, escribe “NE” en modo “batch” o un mensaje de error
         adecuado en modo interactivo.
         """
-        return n, p
+        if p == 2:
+            return n % 2
+        assert (
+            self.legendre_module(n, p) != -1
+        ), f"{n} no tiene raiz cuadrada mod {p} (NE)"
+        if p % 4 == 3:
+            return self.potencia_mod_p_module(n, (p + 1) // 4, p)
+        elif p % 8 == 5:
+            return self.potencia_mod_p_module(n, (p + 3) // 8, p)
+        else:
+            return self.fp2.sqrt(n, p)
 
     def ecuacion_cuadratica_module(
         self, a: int, b: int, c: int, p: int
@@ -313,7 +323,50 @@ class Module:
         - Si la ecuacion no tiene raices, como con el resto de comandos, escribe “NE” en modo “batch” o un mensaje de
         error adecuado en modo interactivo.
         """
-        return a, b, c, p
+        a, b, c = a % p, b % p, c % p
+        sqrt = self.raiz_mod_p_module((b * b - 4 * a * c) % p, p)
+        x1 = (-b + sqrt) * self.inverso_mod_p_module(2 * a, p)
+        x2 = (-b - sqrt) * self.inverso_mod_p_module(2 * a, p)
+        return x1 % p, x2 % p
+
+
+class Fp2:
+    def __init__(self, legendre):
+        self.legendre = legendre
+
+    def find_generator(self, n: int, p: int) -> int:
+        l = 1
+        a = 1
+        while l != -1:
+            a += 1
+            l = self.legendre(a * a - n, p)
+        self.a = a
+        self.w2 = a * a - n
+
+    # def add(self, x: tuple, y: tuple, p: int) -> tuple:
+    #     return (x[0] + y[0]) % p, (x[1] + y[1]) % p
+
+    # def sub(self, x: tuple, y: tuple, p: int) -> tuple:
+    #     return (x[0] - y[0]) % p, (y[1] - y[1]) % p
+
+    def mult(self, x: tuple, y: tuple, p: int) -> tuple:
+        real = x[0] * y[0] + x[1] * y[1] * self.w2
+        imag = x[0] * y[1] + x[1] * y[0]
+        return real % p, imag % p
+
+    def exp(self, x: tuple, exp: int, p: int) -> tuple:
+        potencia = (1, 0)
+        bin_str = bin(exp)
+        base = x
+        for i in range(len(bin_str) - 1, 1, -1):
+            if bin_str[i] == "1":
+                potencia = self.mult(potencia, base, p)
+            base = self.mult(base, base, p)
+        return potencia
+
+    def sqrt(self, n: int, p: int) -> int:
+        self.find_generator(n, p)
+        return self.exp((self.a, 1), (p + 1) // 2, p)[0]
 
 
 if "imatlab_module" not in globals():
@@ -418,51 +471,14 @@ def raiz_mod_p(n: int, p: int) -> int:
     return imatlab_module.raiz_mod_p_module(n, p)
 
 
+def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
+    """
+    Z x Z x Z x Z -> (Z, Z)
+    Devuelve las raices de la ecuacion ax^2 + bx + c = 0 mod p
+    """
+    return imatlab_module.ecuacion_cuadratica_module(a, b, c, p)
+
+
 if __name__ == "__main__":
-    # print("es_primo:")
-    # print(timeit.timeit("print(es_primo(383904623))", globals=globals(), number=1))
-    # print("lista_primos:")
-    # print(timeit.timeit("lista_primos(1, 1000000)", globals=globals(), number=1))
-    # print("factorizar:")
-    # print(
-    #     timeit.timeit(
-    #         "print(factorizar(n))",
-    #         setup="n=280951972823",
-    #         globals=globals(),
-    #         number=1,
-    #     )
-    # )
-    # print("mcd:")
-    # print(
-    #     timeit.timeit(
-    #         "print(mcd(1200901,1939917))",
-    #         globals=globals(),
-    #         number=1,
-    #     )
-    # )
-    # print("bezout:")
-    # print(
-    #     timeit.timeit(
-    #         "print(bezout(99, 105))",
-    #         globals=globals(),
-    #         number=1,
-    #     )
-    # )
-    # print("potencia_mod_p:")
-    # print(
-    #     timeit.timeit(
-    #         "potencia_mod_p(12,13241324323312345678765,17)",
-    #         globals=globals(),
-    #         number=1,
-    #     )
-    # )
-    # print("inversa_mod_p:")
-    # print(
-    #     timeit.timeit(
-    #         "print(inverso_mod_p(212207101440105399533740733471,343358302784187294870275058337))",
-    #         globals=globals(),
-    #         number=10,
-    #     )
-    #     / 10
-    # )
+    print(ecuacion_cuadratica(8374921195, 4327217864, 3420604791, 635363))
     pass
