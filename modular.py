@@ -309,7 +309,11 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
     - Si la ecuacion no tiene raices, como con el resto de comandos, escribe “NE” en modo “batch” o un mensaje de
     error adecuado en modo interactivo.
     """
-    return a, b, c, p
+    discrim = raiz_mod_p(b**2-4*a*c, p)
+    den_inv = inverso_mod_p(2*a, p)
+    sol1 = ((-b+discrim)*den_inv)%p
+    sol2 = ((-b-discrim)*den_inv)%p
+    return sol1, sol2
 
 
 # def simplificar_expresion(expresion: str) -> str:
