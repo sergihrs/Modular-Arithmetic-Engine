@@ -158,6 +158,9 @@ class ResolverSistema(Command):
     def parse_args(self, args: list[list[int]]) -> list[list[int]]:
         return [x[0] for x in args], [x[1] for x in args], [x[2] for x in args]
 
+    def parse_output(self, output) -> str:
+        return f"{output[0]} (mod {output[1]})"
+
 
 class RaizModP(Command):
     def __init__(self, function):

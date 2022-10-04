@@ -1,7 +1,8 @@
 import math
-import timeit
 import numpy as np
-import random
+import warnings
+
+warnings.simplefilter("error", RuntimeWarning)
 
 
 class Module:
@@ -58,42 +59,46 @@ class Module:
         Z x Z -> [Z]
         Devuelve una lista de los numeros primos en [a, b)
         """
-        a = max(a, 2)
-        root = int(math.sqrt(b))
-        primos = []
-        es_primo = [True] * root
-        for i in range(2, root):
-            if es_primo[i]:
-                primos.append(i)
-                for j in range(i * i, root, i):
-                    es_primo[j] = False
-        es_primo_ab = [True] * (b - a)
-        for primo in primos:
-            for i in range(primo + ((-a) % primo), b - a, primo):
-                es_primo_ab[i] = False
-        primos_ab = []
-        for i in range(b - a):
-            if es_primo_ab[i]:
-                primos_ab.append(i + a)
-        return primos_ab
+        if a > 2:
+            root = int(math.sqrt(b))
+            primos = []
+            es_primo = [True] * root
+            for i in range(2, root):
+                if es_primo[i]:
+                    primos.append(i)
+                    for j in range(i * i, root, i):
+                        es_primo[j] = False
+            es_primo_ab = [True] * (b - a)
+            for primo in primos:
+                for i in range(primo + ((-a) % primo), b - a, primo):
+                    es_primo_ab[i] = False
+            primos_ab = []
+            for i in range(b - a):
+                if es_primo_ab[i]:
+                    primos_ab.append(i + a)
+            return primos_ab
+        else:
+            primos = []
+            es_primo = [True] * (b + 1)
+            for i in range(2, b + 1):
+                if es_primo[i]:
+                    primos.append(i)
+                    for j in range(i * i, b + 1, i):
+                        es_primo[j] = False
+            return primos
 
     def factorizar_simple_module(self, n: int):
         """
         Returns the prime factors of n in a dictionary in O(sqrt(n))
         """
         factors = dict()
-        while n % 2 == 0:
-            n = n >> 2
-            factors[2] = factors.get(2, 0) + 1
-        for i in range(3, math.floor(math.sqrt(n)) + 1, 2):
+        for i in range(41, int(math.sqrt(n)) + 1, 2):
             while n % i == 0:
                 n //= i
                 factors[i] = factors.get(i, 0) + 1
             if n == 1:
                 return factors
-        if n != 1:
-            factors[n] = 1
-        return factors
+        return {n: 1}
 
     def factorizar_module(self, n: int) -> dict[int, int]:
         """
@@ -101,30 +106,25 @@ class Module:
         Devuelve un diccionario con los factores primos de n y sus exponentes
         If n is 0 or 1, raise an exception ?
         """
-        if n == 1:
-            return {1: 1}
         factors = dict()
         firsts = (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37)
         for primo in firsts:
-            c = 0
             while n % primo == 0:
                 n //= primo
-                c += 1
-            if c != 0:
-                factors[primo] = c
+                factors[primo] = factors.get(primo, 0) + 1
         if n < 10**10:
             return {**factors, **self.factorizar_simple_module(n)}
         else:
             g = lambda x: (x**2 + 1) % n
-            x = 1
+            seed = 1
             while x < 5:
-                x += 1
-                y = x
+                seed += 1
+                x = y = seed
                 d = 1
                 while d == 1:
                     x = g(x)
                     y = g(g(y))
-                    d = mcd(abs(x - y), n)
+                    d = self.mcd_simple_module((x - y) % n, n)
                 if d != n:
                     return {
                         **factors,
@@ -179,14 +179,19 @@ class Module:
             a_coeffs, b_coeffs = b_coeffs - a_coeffs * (b // a), a_coeffs
             a, b = b % a, a
 
-        return b, *b_coeffs
+        return b, int(b_coeffs[0]), int(b_coeffs[1])
 
     def mcd_n_module(self, nlist: list[int]) -> int:
         """
         [Z] -> Z
         Devuelve el maximo comun divisor de los numeros de nlist
         """
-        return nlist
+        gcd = nlist.pop()
+        for n in nlist:
+            gcd = self.mcd_module(gcd, n)
+            if gcd == 1:
+                return 1
+        return gcd
 
     def bezout_n_module(self, nlist: list[int]) -> tuple[int, list[int]]:
         """
@@ -194,12 +199,16 @@ class Module:
         Devuelve una tupla (d,x) donde d es el mcd de los coeficientes y x es una solucion particular
         de d = c1*x1 + c2*x2 + ... + cn*xn
         """
-        return nlist
+        coeffs = [
+            np.array([0] * i + [1] + [0] * (len(nlist) - i - 1))
+            for i in range(len(nlist))
+        ]
 
     def coprimos_module(self, a: int, b: int) -> bool:
         """
         Z x Z -> Bool
-        Comprueba si dos numeros son coprimos
+        Comprueba si dos numeros son coprimos.
+        Mas rapido con mcd_simple.
         """
         if (a | b) & 1 == 0:
             return False
@@ -214,10 +223,6 @@ class Module:
         if exp < 0:
             base = self.inverso_mod_p_module(base, p)
             exp = -exp
-        elif exp == 0:
-            return 1
-        elif exp == 1:
-            return base
         potencia = 1
         bin_str = bin(exp)
         base = base % p
@@ -233,14 +238,26 @@ class Module:
         Devuelve el inverso de n mod p
         Raise an exception if n is not invertible mod p
         """
-        n = n % p
-        a_comb = 1
-        b_comb = 0
-        while n:
-            a_comb, b_comb = b_comb - a_comb * (p // n), a_comb
-            p, n = n, p % n
-        assert p == 1, f"{n} no tiene inversa mod {p} (NE)"
-        return b_comb
+        a, m = n % p, p
+        a_coeff = 1
+        b_coeff = 0
+        while a:
+            a_coeff, b_coeff = b_coeff - a_coeff * (m // a), a_coeff
+            m, a = a, m % a
+        assert m == 1, f"{n} no tiene inversa mod {p} (NE)"
+        return b_coeff % p
+
+    # def euler_module(self, n: int) -> int:
+    #     """
+    #     Z -> Z
+    #     Devuelve el valor de euler totient of n
+    #     If n is negative, raise an exception ?
+    #     """
+    #     primos = self.factorizar_module(n).keys()
+    #     tot = n
+    #     for primo in primos:
+    #         tot -= tot // primo
+    #     return tot
 
     def euler_module(self, n: int) -> int:
         """
@@ -248,11 +265,24 @@ class Module:
         Devuelve el valor de euler totient of n
         If n is negative, raise an exception ?
         """
-        primos = self.factorizar_module(n).keys()
         tot = n
-        for primo in primos:
-            tot -= tot / primo
-        return tot
+        firsts = (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37)
+        for primo in firsts:
+            if n % primo == 0:
+                tot -= tot // primo
+                while n % primo == 0:
+                    n = n // primo
+                if n == 1:
+                    return tot
+
+        for i in range(41, int(n**0.5) + 1, 2):
+            if n % i == 0:
+                tot -= tot // i
+                while n % i == 0:
+                    n //= i
+                if n == 1:
+                    return tot
+        return n - 1
 
     def legendre_module(self, n: int, p: int) -> int:
         """
@@ -263,7 +293,7 @@ class Module:
         if l not in (0, 1):
             return -1
 
-    def resolver_sistema_congruencias_module(
+    def resolver_sistema_congruencias_module2(
         self, alist: list[int], blist: list[int], plist: list[int]
     ) -> tuple[int, list[int]]:
         """
@@ -290,6 +320,29 @@ class Module:
             a_inv = self.inverso_mod_p_module(a, p)
             x += nk * xk * a_inv
         return x % m, m
+
+    def resolver_sistema_congruencias_module(
+        self, alist: list[int], blist: list[int], plist: list[int]
+    ) -> tuple[int, list[int]]:
+        """
+        [Z] x [Z] x [Z] -> (Z, [Z])
+        Resuelve el sistema de congruencias lineal y devuelve una tupla (r,m) donde r es la solucion modulo m.
+        Doc: https://forthright48.com/chinese-remainder-theorem-part-2-non-coprime-moduli/
+        """
+        size = len(plist)
+        for k in range(size):
+            a, b, p = alist[k], blist[k], plist[k]
+            gcd = self.mcd_simple_module(self.mcd_simple_module(a, b), p)
+            a, b, p = a // gcd, b // gcd, p // gcd
+            alist[k], blist[k], plist[k] = 1, b * self.inverso_mod_p_module(a, p) % p, p
+        for i in range(size - 2, -1, -1):
+            a1, m1 = blist[i + 1], plist[i + 1]
+            a2, m2 = blist[i], plist[i]
+            g, p, q = self.bezout_module(m1, m2)
+            assert (a1 - a2) % g == 0, "Cannot solve the system (NE)"
+            blist[i] = (a1 * (m2 // g) * q + a2 * (m1 // g) * p) // g
+            plist[i] = (m1 * m2) // g
+        return blist[0] % plist[0], plist[0]
 
     def raiz_mod_p_module(self, n: int, p: int) -> int:
         """
@@ -480,5 +533,10 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
 
 
 if __name__ == "__main__":
-    print(ecuacion_cuadratica(8374921195, 4327217864, 3420604791, 635363))
-    pass
+    # print(resolver_sistema_congruencias([6519037604], [8972153143], [1297334945]))
+    eqs = "[4010896780;7020393462;1139],[9417763417;3172836023;145853]"
+    print(
+        resolver_sistema_congruencias(
+            [4010896780, 9417763417], [7020393462, 3172836023], [1139, 145853]
+        )
+    )

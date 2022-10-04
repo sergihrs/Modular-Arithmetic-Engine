@@ -1,5 +1,5 @@
 import re
 
-file = open("tests/primosTest.txt", "r").read()
+file = open("tests/eulerTest.txt", "r").read()
 ns = re.findall(r"\d+", file)
-print(sorted(ns)[:100])
+print(sorted(ns, reverse=True)[:10])

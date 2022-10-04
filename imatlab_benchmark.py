@@ -22,7 +22,7 @@ import imatlab
 
 # Número de repeticiones de la toma de tiempos.
 # Aumentarlo disminuye efectos aleatorios o casuales en el código, pero aumenta el coste de ejecución.
-NITERS = 1000
+NITERS = 100
 
 
 def testRun(in_file: str, out_file: str):
@@ -94,6 +94,7 @@ if __name__ == "__main__":
         "tests/sistemaTest.txt",
         # "tests/cuadraticaTest.txt",
     ]
+
     out_files = [
         # "tests/primosOut.txt",
         # "tests/factorOut.txt",
@@ -101,7 +102,7 @@ if __name__ == "__main__":
         # "tests/potenciaOut.txt",
         # "tests/invOut.txt",
         # "tests/eulerOut.txt",
-        "tests/sistemaOut.txt",
+        "tests/sistemaOut2.txt",
         # "tests/cuadraticaOut.txt",
     ]
 
@@ -110,7 +111,7 @@ if __name__ == "__main__":
     for i in range(0, len(in_files)):
         # Comentar una línea o la otra para alternar benchmarking/profiling
         try:
-            runtime.append(measureTime(in_files[i], out_files[i]))
+            runtime.append(round(measureTime(in_files[i], out_files[i]), 5))
             # profile(in_files[i], out_files[i])
         except IOError:
             runtime.append(0)

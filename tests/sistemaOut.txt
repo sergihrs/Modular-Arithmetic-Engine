@@ -1,7 +1,7 @@
 (1209007764, 1297334945)
 Error: 0 no tiene inversa mod 5 (NE)
 (5141161005, 6095388847)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 0 no tiene inversa mod 4 (NE) 
 (4752397309, 6308395504)
 (183930635, 375601047)
 (5575459993, 9772502709)
