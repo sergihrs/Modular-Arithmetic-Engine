@@ -3999,94 +3999,94 @@
 1975932249
 4876657798
 872054848
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2904167109 no tiene inversa mod 7264772769 (NE)
 5511788224
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6587783490 no tiene inversa mod 8769113067 (NE)
 1901556662
 7537603097
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7138614207 no tiene inversa mod 3761614773 (NE)
 2650297049
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4402549224 no tiene inversa mod 7256010198 (NE)
 840304801
-Error: 0 no tiene inversa mod 65 (NE)
+Error: 7768283250 no tiene inversa mod 2194008245 (NE)
 64368178
 217001951
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 5936992648 no tiene inversa mod 4599438674 (NE)
+Error: 9668983788 no tiene inversa mod 7678782410 (NE)
+Error: 3843824076 no tiene inversa mod 8224043714 (NE)
+Error: 596752355 no tiene inversa mod 9909317680 (NE)
 2558080119
 2095946744
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5735563906 no tiene inversa mod 523729976 (NE)
 3115970744
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5109975678 no tiene inversa mod 511857232 (NE)
 309592493
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4036470890 no tiene inversa mod 9203868974 (NE)
 4503325238
 106494301
 903949168
-Error: 0 no tiene inversa mod 24 (NE)
+Error: 4560691512 no tiene inversa mod 964075296 (NE)
 5622495697
 5688106352
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2174391034 no tiene inversa mod 7750620104 (NE)
+Error: 3695908976 no tiene inversa mod 8042087044 (NE)
 4564550813
 2092497579
 3478154185
 4423281785
-Error: 0 no tiene inversa mod 390 (NE)
-Error: 0 no tiene inversa mod 1673 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7145636160 no tiene inversa mod 9395656530 (NE)
+Error: 1620934567 no tiene inversa mod 1211573216 (NE)
+Error: 3715025932 no tiene inversa mod 9309471080 (NE)
 6729734635
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2075627655 no tiene inversa mod 3891132771 (NE)
 417808052
 3955841476
 5898062914
 4327945189
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 324429606 no tiene inversa mod 1871134842 (NE)
 1829044296
 4913658976
 42172082
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3341979410 no tiene inversa mod 580967308 (NE)
 3136225919
 1281587617
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9668710713 no tiene inversa mod 4117422978 (NE)
 2548766090
 265413449
 3525793338
 1262725052
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9079030632 no tiene inversa mod 8222311322 (NE)
 5103884405
 2431651748
 88198141
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6824290222 no tiene inversa mod 9136199590 (NE)
+Error: 7874536326 no tiene inversa mod 4511956960 (NE)
 178082587
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 4774110252 no tiene inversa mod 7103594990 (NE)
+Error: 5959045465 no tiene inversa mod 5675021225 (NE)
 4999874595
 3939428338
 2495371819
 4209208773
 5592738545
 192766094
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2975831373 no tiene inversa mod 2300760336 (NE)
 965284701
 643549369
 995336333
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 9611820858 no tiene inversa mod 5190722232 (NE)
 9354185747
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4757934282 no tiene inversa mod 3286825358 (NE)
+Error: 465359924 no tiene inversa mod 8555529330 (NE)
 6599069627
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6510316814 no tiene inversa mod 116556638 (NE)
+Error: 4541786313 no tiene inversa mod 9121694985 (NE)
 65443943
 1788122051
 188115335
 1003283793
 1618967303
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6580402574 no tiene inversa mod 4982884378 (NE)
 3528047845
 5492081165
 6205771447
@@ -4095,8 +4095,8 @@ Error: 0 no tiene inversa mod 2 (NE)
 540030087
 694285105
 1360976827
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 895790165 no tiene inversa mod 7915249275 (NE)
+Error: 5844310745 no tiene inversa mod 1314746862 (NE)
 4639288750
 6308171653
 1993752975
@@ -4105,87 +4105,87 @@ Error: 0 no tiene inversa mod 13 (NE)
 919272427
 2304042481
 1496904519
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3743122680 no tiene inversa mod 9545164628 (NE)
+Error: 2897404648 no tiene inversa mod 1148948418 (NE)
+Error: 1231607547 no tiene inversa mod 7023890343 (NE)
 16576559
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2817142292 no tiene inversa mod 2118331668 (NE)
 3068608313
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 4927753516 no tiene inversa mod 7161888624 (NE)
 2897495873
 5587492206
 724881179
 4120847059
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8119209064 no tiene inversa mod 8567494090 (NE)
 153861721
 1473670156
 2370803899
 866388012
-Error: 0 no tiene inversa mod 14 (NE)
+Error: 2528789074 no tiene inversa mod 8932971012 (NE)
 266125769
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 6349236103 no tiene inversa mod 1158833893 (NE)
 1185499571
 7714245727
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2607701468 no tiene inversa mod 6602928378 (NE)
 1268893522
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2571461121 no tiene inversa mod 1899901719 (NE)
+Error: 9502091804 no tiene inversa mod 6420932828 (NE)
 256980641
 2935089832
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 3098138652 no tiene inversa mod 5179855020 (NE)
 3366240085
 7329613037
 2018999554
 791500725
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 9944854863 no tiene inversa mod 7627621743 (NE)
+Error: 1328388474 no tiene inversa mod 9553574406 (NE)
 2744526263
 30623602
 231720087
 181135376
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3170912565 no tiene inversa mod 5641382547 (NE)
 202588023
 2484488917
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7033506882 no tiene inversa mod 7961385188 (NE)
 1364474532
 3523823664
 8074927118
 4268753236
 2859842964
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4758066014 no tiene inversa mod 9898605006 (NE)
 1504718200
 643686257
 2211761113
 2478230131
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7508181038 no tiene inversa mod 8142884074 (NE)
 3673478305
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3423229420 no tiene inversa mod 6867922768 (NE)
 3069240147
 2419515847
 2215259177
-Error: 0 no tiene inversa mod 11 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7161285725 no tiene inversa mod 4572136723 (NE)
+Error: 370491486 no tiene inversa mod 287277508 (NE)
 5162628717
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1255732995 no tiene inversa mod 3108788585 (NE)
 149318486
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 4140682028 no tiene inversa mod 7384075296 (NE)
 1550554277
 967907449
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3402506186 no tiene inversa mod 8066019814 (NE)
 9050874761
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 11 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5847270078 no tiene inversa mod 4702226044 (NE)
+Error: 9769301090 no tiene inversa mod 9756421426 (NE)
+Error: 5690972221 no tiene inversa mod 7191059414 (NE)
+Error: 3387846194 no tiene inversa mod 5623453202 (NE)
 1310868864
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4393501444 no tiene inversa mod 3371390310 (NE)
 1552628105
 2460534171
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7765027682 no tiene inversa mod 5054757730 (NE)
 602454459
-Error: 0 no tiene inversa mod 37 (NE)
+Error: 3544580760 no tiene inversa mod 7786190497 (NE)
 592642993
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7531604259 no tiene inversa mod 2986578099 (NE)
 1882427615
 3609157029
 160395896
@@ -4193,60 +4193,60 @@ Error: 0 no tiene inversa mod 3 (NE)
 2252936010
 3013383065
 5102066217
-Error: 0 no tiene inversa mod 21 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1771972104 no tiene inversa mod 340616829 (NE)
+Error: 7915962468 no tiene inversa mod 237035691 (NE)
 968781262
 396506615
 6534136253
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 9239593698 no tiene inversa mod 6709386126 (NE)
 1465559290
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9943351434 no tiene inversa mod 8742015212 (NE)
+Error: 810951771 no tiene inversa mod 384901069 (NE)
+Error: 4379606462 no tiene inversa mod 188797194 (NE)
 2646505407
 5213520224
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4677752056 no tiene inversa mod 9624137934 (NE)
 344690381
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 1990409418 no tiene inversa mod 3148245657 (NE)
 4733362446
 2721386611
 4266206803
 6831157535
 3038725844
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4920373206 no tiene inversa mod 9764752084 (NE)
 805648057
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5200209202 no tiene inversa mod 6725738582 (NE)
 3156754860
 482337362
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4267532340 no tiene inversa mod 9832640133 (NE)
 1399494701
 2371307433
 5116485985
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9975427910 no tiene inversa mod 3780035217 (NE)
+Error: 4675762008 no tiene inversa mod 2217683984 (NE)
+Error: 3142030826 no tiene inversa mod 8350531628 (NE)
 4920975883
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 8161307548 no tiene inversa mod 9938739012 (NE)
+Error: 1227037496 no tiene inversa mod 2916345032 (NE)
 1564065213
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 85200167 no tiene inversa mod 7686790137 (NE)
+Error: 1247291241 no tiene inversa mod 783964569 (NE)
+Error: 2749096682 no tiene inversa mod 3103466602 (NE)
+Error: 6435653446 no tiene inversa mod 7774838084 (NE)
 123099873
 2404117472
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4544558078 no tiene inversa mod 6974566714 (NE)
+Error: 2096685668 no tiene inversa mod 5876204758 (NE)
 1835228827
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 25 (NE)
+Error: 3915573446 no tiene inversa mod 2380036134 (NE)
+Error: 393418925 no tiene inversa mod 9195213400 (NE)
 7885752261
 1495155359
 1532423659
 808683253
 2989103179
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 26 (NE)
+Error: 5288100777 no tiene inversa mod 953712072 (NE)
+Error: 2022014020 no tiene inversa mod 8542510834 (NE)
 174988981
 8204467530
 1176489369
@@ -4262,207 +4262,207 @@ Error: 0 no tiene inversa mod 26 (NE)
 400829431
 4540017430
 110774217
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7100075298 no tiene inversa mod 7135750070 (NE)
 498481761
 104988870
 3924267841
 1833578333
 3876011455
 2552086631
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2273662302 no tiene inversa mod 6144283084 (NE)
 1079053009
 476413393
 1504207969
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 4749567165 no tiene inversa mod 4783984715 (NE)
+Error: 3738006860 no tiene inversa mod 937151456 (NE)
 3395818466
 3223095283
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2388940938 no tiene inversa mod 5345572809 (NE)
+Error: 8696806528 no tiene inversa mod 1017192100 (NE)
+Error: 5067812170 no tiene inversa mod 9809953532 (NE)
 432231399
 1943935727
 392335213
 361730391
 447527674
 492811453
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1250070250 no tiene inversa mod 2655818826 (NE)
 2449190718
 5116469038
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 23 (NE)
+Error: 6701860413 no tiene inversa mod 1609439514 (NE)
+Error: 701929324 no tiene inversa mod 6311664718 (NE)
+Error: 7664052226 no tiene inversa mod 7404851403 (NE)
 1428275473
 408829059
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1396100455 no tiene inversa mod 2950018000 (NE)
 331031400
 3519209399
 30506806
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5271604850 no tiene inversa mod 2099488696 (NE)
 7570893487
 590245976
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 273702598 no tiene inversa mod 988776120 (NE)
 872150393
 1541820358
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 3880256808 no tiene inversa mod 9448303242 (NE)
 443616636
 799569497
 642711937
-Error: 0 no tiene inversa mod 11 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 391585755 no tiene inversa mod 9944189068 (NE)
+Error: 6286043746 no tiene inversa mod 7217866148 (NE)
+Error: 5379384609 no tiene inversa mod 5981543448 (NE)
 641436696
 2034175032
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 5164417338 no tiene inversa mod 7146846369 (NE)
+Error: 8733752248 no tiene inversa mod 9726543234 (NE)
+Error: 6594567605 no tiene inversa mod 2798758010 (NE)
 13556234
 3127919073
-Error: 0 no tiene inversa mod 41 (NE)
+Error: 9428071073 no tiene inversa mod 1655117274 (NE)
 101343760
 252119471
 1844215647
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 8861353026 no tiene inversa mod 2510052756 (NE)
 253352737
-Error: 0 no tiene inversa mod 75 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 48 (NE)
+Error: 741654975 no tiene inversa mod 6467138025 (NE)
+Error: 1556060600 no tiene inversa mod 9990510642 (NE)
+Error: 1233373488 no tiene inversa mod 119416320 (NE)
 4475900209
 3723205977
 722155627
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 9799193944 no tiene inversa mod 3200027076 (NE)
 6190755673
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 1846747617 no tiene inversa mod 281481850 (NE)
 3438693965
 1047179433
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 384977234 no tiene inversa mod 2663784172 (NE)
 3123226821
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 5082197687 no tiene inversa mod 4567048094 (NE)
 2125404071
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1082916480 no tiene inversa mod 1529755286 (NE)
+Error: 6336880737 no tiene inversa mod 2994224490 (NE)
 527043345
 2047954897
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6377309816 no tiene inversa mod 1286510348 (NE)
 1957438981
 2442418241
 1278819723
-Error: 0 no tiene inversa mod 18 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7084873836 no tiene inversa mod 5363831214 (NE)
+Error: 313860336 no tiene inversa mod 1323088130 (NE)
 1167541555
 3251342853
 2600443423
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1882642828 no tiene inversa mod 6058095386 (NE)
 215455369
 265231261
 937697636
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 3934644614 no tiene inversa mod 33668114 (NE)
+Error: 8362108592 no tiene inversa mod 380068740 (NE)
+Error: 2944196479 no tiene inversa mod 2468658871 (NE)
+Error: 5982022569 no tiene inversa mod 9276273399 (NE)
+Error: 2558010680 no tiene inversa mod 31591450 (NE)
 8156619189
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2565133230 no tiene inversa mod 1696458094 (NE)
 2692275434
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1340783194 no tiene inversa mod 5163697362 (NE)
+Error: 2525813130 no tiene inversa mod 4493614114 (NE)
 3042120230
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6069870846 no tiene inversa mod 7862176665 (NE)
+Error: 9571602978 no tiene inversa mod 4132698072 (NE)
+Error: 9234664804 no tiene inversa mod 201732138 (NE)
 2098198633
 1732865617
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8502193766 no tiene inversa mod 6235426778 (NE)
 324198877
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 714343756 no tiene inversa mod 5105414158 (NE)
 5292838
 5643675186
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7247253018 no tiene inversa mod 593672642 (NE)
 3994542605
 477432155
 3544005549
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 871623112 no tiene inversa mod 2409577402 (NE)
 1247059125
 2221898747
 3608781430
 6335102891
 2007030041
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7325866606 no tiene inversa mod 3556499986 (NE)
+Error: 8209433598 no tiene inversa mod 5211869084 (NE)
 5087344849
 525836630
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2017854664 no tiene inversa mod 291400346 (NE)
+Error: 8658955934 no tiene inversa mod 7498130262 (NE)
 1488430531
 55063100
 4225363099
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7555659948 no tiene inversa mod 7334606998 (NE)
+Error: 5065151072 no tiene inversa mod 2717374668 (NE)
 752706451
 179290349
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8638012386 no tiene inversa mod 4929848817 (NE)
 2990015284
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1019742874 no tiene inversa mod 3759064744 (NE)
 2044962867
 5664797491
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8427881022 no tiene inversa mod 6753940656 (NE)
+Error: 4537860318 no tiene inversa mod 5548410736 (NE)
 1924176011
 833064086
 2805441217
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3602602524 no tiene inversa mod 1939517984 (NE)
 4415113195
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3226634258 no tiene inversa mod 5697993432 (NE)
+Error: 2556522864 no tiene inversa mod 1460776708 (NE)
 194648132
 1867054185
 1640688448
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1844845585 no tiene inversa mod 5805460250 (NE)
+Error: 6848868810 no tiene inversa mod 9953236036 (NE)
 1722412696
 2933355110
 1138947527
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3484938718 no tiene inversa mod 3994005346 (NE)
 1002395165
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2312838542 no tiene inversa mod 8980180284 (NE)
+Error: 5212402818 no tiene inversa mod 9424335524 (NE)
+Error: 746242318 no tiene inversa mod 4641243856 (NE)
 203814874
 1359353969
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3280155005 no tiene inversa mod 3390589740 (NE)
 75594965
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6278050006 no tiene inversa mod 2608211292 (NE)
+Error: 4710558146 no tiene inversa mod 5800171260 (NE)
 2916142580
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8512140740 no tiene inversa mod 1443838114 (NE)
+Error: 587761026 no tiene inversa mod 4636637242 (NE)
 2794925849
 9232799569
 2612633176
 3212293711
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 3321832633 no tiene inversa mod 2730447146 (NE)
 5006122847
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 9662672788 no tiene inversa mod 6413197376 (NE)
 4367962054
 1038580916
 2720860921
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3882054154 no tiene inversa mod 6296258726 (NE)
 4860604259
 5614200834
 1968550382
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 139825511 no tiene inversa mod 8073964332 (NE)
 438583141
 944727196
 6913146850
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 7086115884 no tiene inversa mod 8514425652 (NE)
 1551673421
 3776115825
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7460150146 no tiene inversa mod 6116466752 (NE)
 2209933733
 6170774835
 1112403054
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5003506669 no tiene inversa mod 8984794630 (NE)
+Error: 772725248 no tiene inversa mod 3833744330 (NE)
 1648638887
 3256233171
 1698715013
@@ -4470,49 +4470,49 @@ Error: 0 no tiene inversa mod 2 (NE)
 3881909764
 2807016411
 921959819
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7228957138 no tiene inversa mod 243437926 (NE)
+Error: 1424563710 no tiene inversa mod 8039272023 (NE)
 5402823606
-Error: 0 no tiene inversa mod 77 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6863046267 no tiene inversa mod 6600920249 (NE)
+Error: 3969438678 no tiene inversa mod 3072624254 (NE)
+Error: 1619368072 no tiene inversa mod 3324759426 (NE)
 1107477886
 127493166
 393095111
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 5501078769 no tiene inversa mod 2472472740 (NE)
+Error: 3520360364 no tiene inversa mod 9387906082 (NE)
+Error: 1627878279 no tiene inversa mod 5449899441 (NE)
+Error: 4256619156 no tiene inversa mod 7094062914 (NE)
 857509623
 3534389236
 4456874209
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 17 (NE)
+Error: 3974017070 no tiene inversa mod 8839129755 (NE)
+Error: 3136461138 no tiene inversa mod 2514875365 (NE)
 3466843437
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 40 (NE)
+Error: 5217647236 no tiene inversa mod 2596009526 (NE)
+Error: 6977713640 no tiene inversa mod 8041467640 (NE)
 3515579887
 7573950439
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 981156815 no tiene inversa mod 7247691530 (NE)
+Error: 1220305161 no tiene inversa mod 7656877365 (NE)
 596345518
 3748214145
 1852268491
-Error: 0 no tiene inversa mod 269 (NE)
+Error: 5282566317 no tiene inversa mod 7592248199 (NE)
 2744354188
-Error: 0 no tiene inversa mod 106 (NE)
-Error: 0 no tiene inversa mod 337 (NE)
+Error: 6512569086 no tiene inversa mod 3786429392 (NE)
+Error: 4973639101 no tiene inversa mod 6330240015 (NE)
 4510026493
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 6080650464 no tiene inversa mod 5723622258 (NE)
 1585247665
 73651481
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9833773938 no tiene inversa mod 5768391234 (NE)
+Error: 6596028003 no tiene inversa mod 5420507253 (NE)
 2376191351
 5632935521
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6683736115 no tiene inversa mod 7107757710 (NE)
+Error: 348168226 no tiene inversa mod 3004232808 (NE)
+Error: 8566501864 no tiene inversa mod 1790281838 (NE)
 354090973
 6798837962
 4538518900
@@ -4521,30 +4521,30 @@ Error: 0 no tiene inversa mod 2 (NE)
 1973617452
 189429345
 247297967
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 171968545 no tiene inversa mod 4078898593 (NE)
 4875977296
 282684561
 2477829297
 179975719
 366335437
 5285306912
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 6425880019 no tiene inversa mod 4986643701 (NE)
 2994547675
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 6914989602 no tiene inversa mod 9846952662 (NE)
 634629502
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3637958695 no tiene inversa mod 6749906985 (NE)
 8964091687
 6640645207
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7079418042 no tiene inversa mod 1428111081 (NE)
+Error: 8544420432 no tiene inversa mod 5011312102 (NE)
+Error: 8934376236 no tiene inversa mod 1366970072 (NE)
 4372287236
-Error: 0 no tiene inversa mod 15 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2976438900 no tiene inversa mod 1909879335 (NE)
+Error: 6391654536 no tiene inversa mod 1747499337 (NE)
+Error: 2928201249 no tiene inversa mod 748608522 (NE)
 1196015488
 492661575
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 952200478 no tiene inversa mod 4185030244 (NE)
 1235566081
 4971491735
 2630745576
@@ -4554,120 +4554,120 @@ Error: 0 no tiene inversa mod 2 (NE)
 5882530823
 1449336211
 1672579167
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8359471212 no tiene inversa mod 4556140232 (NE)
 2206328216
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1755173342 no tiene inversa mod 340509674 (NE)
 4087583221
 3323538919
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 390080352 no tiene inversa mod 5160023217 (NE)
 169509496
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 643206950 no tiene inversa mod 382458136 (NE)
 1451156206
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 5552030600 no tiene inversa mod 6008005828 (NE)
+Error: 8592009054 no tiene inversa mod 9264125706 (NE)
 962156913
 65458206
 1751293838
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4670168878 no tiene inversa mod 662876136 (NE)
 1772350404
 4626950991
 3159669843
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 6778712825 no tiene inversa mod 5103873685 (NE)
 990872499
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3561572791 no tiene inversa mod 1819091064 (NE)
+Error: 1465888410 no tiene inversa mod 7370705165 (NE)
 7022585945
 1168458406
 4990506459
 8005782913
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3143090900 no tiene inversa mod 2978867796 (NE)
+Error: 3992436183 no tiene inversa mod 5955483945 (NE)
+Error: 5501511886 no tiene inversa mod 9885228148 (NE)
 173898806
 4221788346
 5011612369
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 9756031345 no tiene inversa mod 6041184860 (NE)
 7553105098
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4446261952 no tiene inversa mod 6665038246 (NE)
+Error: 5299715348 no tiene inversa mod 1613903686 (NE)
+Error: 1123966833 no tiene inversa mod 703108806 (NE)
 487757167
 2658956180
 227348495
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8075422592 no tiene inversa mod 9431973466 (NE)
+Error: 1364559159 no tiene inversa mod 8051614065 (NE)
 4728541035
 2302035501
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8741198366 no tiene inversa mod 9036541360 (NE)
+Error: 1237242670 no tiene inversa mod 5962580012 (NE)
 641191481
-Error: 0 no tiene inversa mod 57 (NE)
+Error: 1887474744 no tiene inversa mod 1218548337 (NE)
 1796888315
 746080819
 4007091399
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 429426534 no tiene inversa mod 2746398510 (NE)
 123812740
 246991709
 2211315328
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 7701717522 no tiene inversa mod 9577303014 (NE)
 19921972
 2029604731
-Error: 0 no tiene inversa mod 22 (NE)
+Error: 1934347888 no tiene inversa mod 6319895538 (NE)
 249777347
 5199877723
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1039151702 no tiene inversa mod 8238941806 (NE)
+Error: 5830541265 no tiene inversa mod 6784267701 (NE)
 5792865843
 69277223
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7412853090 no tiene inversa mod 3759509656 (NE)
 1538061911
 2282488981
 5678897561
 5568610055
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 14 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 9662937940 no tiene inversa mod 110185456 (NE)
+Error: 1656016768 no tiene inversa mod 1912281310 (NE)
+Error: 3540102538 no tiene inversa mod 7321332676 (NE)
+Error: 8071251526 no tiene inversa mod 6055535444 (NE)
+Error: 5422937785 no tiene inversa mod 3177045725 (NE)
+Error: 467142440 no tiene inversa mod 3334531125 (NE)
 59069161
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3368055486 no tiene inversa mod 674505106 (NE)
 1084417705
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 5947908075 no tiene inversa mod 3961362906 (NE)
 3468301465
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 2212978725 no tiene inversa mod 5024364170 (NE)
+Error: 9355989506 no tiene inversa mod 5345281862 (NE)
+Error: 3609649662 no tiene inversa mod 6608158048 (NE)
+Error: 1845974601 no tiene inversa mod 6155033886 (NE)
 5339941046
 3445300895
 8704335665
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 6781902710 no tiene inversa mod 9358046120 (NE)
 3134140367
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5374378060 no tiene inversa mod 371741314 (NE)
 317392327
 3676919249
-Error: 0 no tiene inversa mod 28 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5924072392 no tiene inversa mod 7301536676 (NE)
+Error: 4290123477 no tiene inversa mod 9320820783 (NE)
+Error: 6369756622 no tiene inversa mod 4444626430 (NE)
 5228329543
 574086181
 6542652790
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 386046960 no tiene inversa mod 9165159095 (NE)
 2142480827
 891172348
-Error: 0 no tiene inversa mod 21 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6855789675 no tiene inversa mod 2650083051 (NE)
+Error: 5409090867 no tiene inversa mod 2691021105 (NE)
 697944295
 6039360561
 347987001
 5416171198
 582906182
 7765365803
-Error: 0 no tiene inversa mod 42 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9986905320 no tiene inversa mod 4448275314 (NE)
+Error: 4282382920 no tiene inversa mod 3571755528 (NE)
+Error: 2815748756 no tiene inversa mod 2734656022 (NE)
+Error: 836628296 no tiene inversa mod 1945017630 (NE)
 3136193509
 50501561
 3549950421
@@ -4675,60 +4675,60 @@ Error: 0 no tiene inversa mod 2 (NE)
 1723264548
 6360481763
 3179707166
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 169939685 no tiene inversa mod 114859735 (NE)
 31080337
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4879715280 no tiene inversa mod 6177256686 (NE)
 3898156432
 4673700296
 1255877089
 6699553051
 7549918461
 1494864375
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4899680208 no tiene inversa mod 6506614758 (NE)
 1187482543
 3177634049
 4421161673
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 6109205335 no tiene inversa mod 5580923380 (NE)
 163715290
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 5450217070 no tiene inversa mod 5022674910 (NE)
 282318190
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5334725102 no tiene inversa mod 3302304220 (NE)
+Error: 7979424066 no tiene inversa mod 7888665975 (NE)
 2917385305
 230345740
 3376287210
 1186953007
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9479674404 no tiene inversa mod 5989980957 (NE)
 809820556
 2493952732
 599373535
 1822147391
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1235543224 no tiene inversa mod 1515530906 (NE)
 2514816631
 494590960
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1052770208 no tiene inversa mod 7902824602 (NE)
 536276259
-Error: 0 no tiene inversa mod 53 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1557518208 no tiene inversa mod 5243392237 (NE)
+Error: 1371617724 no tiene inversa mod 2224642820 (NE)
 7703639089
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 3204412011 no tiene inversa mod 4521065301 (NE)
 3124849697
 315399918
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4394283696 no tiene inversa mod 2254385622 (NE)
 1009918640
 8868800933
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3722601012 no tiene inversa mod 3048105442 (NE)
 2684648818
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3104791510 no tiene inversa mod 6326773706 (NE)
 4352940259
 1005904689
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 4089186717 no tiene inversa mod 5182615735 (NE)
 1401897073
 5213966958
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3423724230 no tiene inversa mod 7386276215 (NE)
+Error: 6629805012 no tiene inversa mod 8010652186 (NE)
+Error: 8440178031 no tiene inversa mod 5419071690 (NE)
+Error: 1307277828 no tiene inversa mod 7452263271 (NE)
 1116375242
 139118482
 1198343903
@@ -4736,137 +4736,137 @@ Error: 0 no tiene inversa mod 3 (NE)
 1334625011
 3062942143
 3073619356
-Error: 0 no tiene inversa mod 16 (NE)
+Error: 3717114608 no tiene inversa mod 2786720672 (NE)
 3209889020
 1626291668
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 87103263 no tiene inversa mod 9945729501 (NE)
 4857819085
 3280888192
 8119572850
 202251885
 160216310
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4017009576 no tiene inversa mod 2798112834 (NE)
+Error: 373277690 no tiene inversa mod 5672929988 (NE)
 6493816643
 2305689700
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 1518067542 no tiene inversa mod 8279819976 (NE)
 2531949947
 103755071
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2194750260 no tiene inversa mod 99105266 (NE)
 1070488060
 5744006181
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9081393208 no tiene inversa mod 7362191510 (NE)
 886135809
 2931418879
 3681313018
-Error: 0 no tiene inversa mod 18 (NE)
+Error: 9957107790 no tiene inversa mod 299609586 (NE)
 276800729
 588030032
 111374467
-Error: 0 no tiene inversa mod 14 (NE)
+Error: 138044872 no tiene inversa mod 5538716778 (NE)
 979022132
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 37 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 300654908 no tiene inversa mod 9469453156 (NE)
+Error: 1794165668 no tiene inversa mod 3169148383 (NE)
+Error: 657281635 no tiene inversa mod 5031268925 (NE)
+Error: 8777662158 no tiene inversa mod 8494248752 (NE)
 622074631
 4497825025
 371934629
 152499274
 3384178519
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6260065420 no tiene inversa mod 6017368915 (NE)
+Error: 1841713894 no tiene inversa mod 9558938540 (NE)
 603145097
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1884429926 no tiene inversa mod 6076828788 (NE)
 3316189367
 3940428682
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2994280510 no tiene inversa mod 7462608964 (NE)
 213496466
 173483246
 2722926086
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7065731226 no tiene inversa mod 7637994153 (NE)
 3742973059
 3681029857
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8934587108 no tiene inversa mod 9300468980 (NE)
 1643228991
 7476312722
 392526744
 759565881
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1543588654 no tiene inversa mod 3975199320 (NE)
 2300221295
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 26 (NE)
+Error: 9785353542 no tiene inversa mod 5658385108 (NE)
+Error: 1651928746 no tiene inversa mod 9370297248 (NE)
 698148823
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6530117376 no tiene inversa mod 9338795732 (NE)
 298754357
 2955112993
 3788286679
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 8899953612 no tiene inversa mod 5268358916 (NE)
+Error: 673461730 no tiene inversa mod 8001445175 (NE)
 4477713553
 4529061371
 34259863
 4253683681
 29984184
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9025025336 no tiene inversa mod 7276367068 (NE)
+Error: 2388096672 no tiene inversa mod 135351515 (NE)
+Error: 1739983960 no tiene inversa mod 2492382998 (NE)
 175273609
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3593734940 no tiene inversa mod 5876898246 (NE)
 923214481
 5638096632
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6300384052 no tiene inversa mod 3862523052 (NE)
 2880085372
 9096711018
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5639838475 no tiene inversa mod 9080346765 (NE)
+Error: 9542659167 no tiene inversa mod 8512162131 (NE)
 96357905
 1545926485
 78747058
 6563612172
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9365781796 no tiene inversa mod 3312017242 (NE)
 1027979481
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 68315330 no tiene inversa mod 4034467730 (NE)
 1813045858
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6443019942 no tiene inversa mod 3551311794 (NE)
+Error: 806712256 no tiene inversa mod 7002442140 (NE)
 40789927
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7030556486 no tiene inversa mod 4437750304 (NE)
 2956535232
 2003738963
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4284763786 no tiene inversa mod 8390433060 (NE)
 2323395619
 203916094
 5795321849
 1656648519
-Error: 0 no tiene inversa mod 22 (NE)
+Error: 8155374898 no tiene inversa mod 7343120994 (NE)
 5742708701
 986658574
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3915393622 no tiene inversa mod 5186585064 (NE)
 1865144669
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 1621726002 no tiene inversa mod 6249168272 (NE)
+Error: 7562564028 no tiene inversa mod 7058638884 (NE)
 540432284
 5472426035
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 706418580 no tiene inversa mod 939116547 (NE)
 3224327189
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 498422288 no tiene inversa mod 3939989960 (NE)
+Error: 7576801510 no tiene inversa mod 7245886000 (NE)
 4021251253
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 735858870 no tiene inversa mod 5714316276 (NE)
+Error: 7041246570 no tiene inversa mod 5349284829 (NE)
 62250289
 2170383751
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1630172232 no tiene inversa mod 3348163002 (NE)
+Error: 7992971314 no tiene inversa mod 548203178 (NE)
 347689468
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1362880028 no tiene inversa mod 4852569852 (NE)
 3015157951
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 5907395472 no tiene inversa mod 4049889804 (NE)
 1582436728
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4012015401 no tiene inversa mod 9217836615 (NE)
 1293616715
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3567741854 no tiene inversa mod 4341114008 (NE)
 4567473941
 1585658461
 822637259
@@ -4875,221 +4875,221 @@ Error: 0 no tiene inversa mod 2 (NE)
 3967277392
 4717565641
 635738905
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 2121027678 no tiene inversa mod 1279169683 (NE)
 50780437
 302103025
 3291415477
 2507074139
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5613238196 no tiene inversa mod 5865261986 (NE)
 749444355
 6025277233
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6018475674 no tiene inversa mod 5939021546 (NE)
+Error: 3231738222 no tiene inversa mod 6925891305 (NE)
+Error: 622639014 no tiene inversa mod 6527616760 (NE)
 649117306
 2650287613
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4862923606 no tiene inversa mod 3374084498 (NE)
+Error: 1832198872 no tiene inversa mod 375958782 (NE)
 1467871065
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 237547205 no tiene inversa mod 5386812214 (NE)
+Error: 8166702459 no tiene inversa mod 8158652013 (NE)
 2391748832
 712510979
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2594920572 no tiene inversa mod 4121222607 (NE)
+Error: 5245743052 no tiene inversa mod 6524544896 (NE)
 656362656
 2350914107
 675076673
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6920046342 no tiene inversa mod 4301405104 (NE)
+Error: 1257387640 no tiene inversa mod 9270816988 (NE)
+Error: 357145454 no tiene inversa mod 711019574 (NE)
+Error: 4773314202 no tiene inversa mod 4782114200 (NE)
 1351444095
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 17 (NE)
+Error: 19025156 no tiene inversa mod 7308596046 (NE)
+Error: 1238173784 no tiene inversa mod 8884223579 (NE)
 2149794393
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8117455418 no tiene inversa mod 5335902262 (NE)
 1257958053
 95032253
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4140500224 no tiene inversa mod 7343963364 (NE)
+Error: 7808509005 no tiene inversa mod 609446635 (NE)
+Error: 4477413498 no tiene inversa mod 4881653758 (NE)
 6418920421
 4039879884
 7899436729
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 15 (NE)
+Error: 3415299158 no tiene inversa mod 1913850422 (NE)
+Error: 937365675 no tiene inversa mod 1817544765 (NE)
 2971632681
-Error: 0 no tiene inversa mod 76 (NE)
+Error: 7837248288 no tiene inversa mod 5020631668 (NE)
 719084792
 8184176611
 4776652677
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8316030843 no tiene inversa mod 7418025978 (NE)
+Error: 6333770882 no tiene inversa mod 4509671860 (NE)
+Error: 6590807684 no tiene inversa mod 5884151756 (NE)
 2842201089
 5885113893
 2963109811
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 3808991139 no tiene inversa mod 1280825427 (NE)
+Error: 8252388557 no tiene inversa mod 3516301313 (NE)
 3455671801
 1493170519
-Error: 0 no tiene inversa mod 52 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6952431356 no tiene inversa mod 8062991092 (NE)
+Error: 9762168126 no tiene inversa mod 6338559440 (NE)
+Error: 9086721482 no tiene inversa mod 8793063212 (NE)
 1071718672
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7679965484 no tiene inversa mod 6449495988 (NE)
 2390371294
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7033475794 no tiene inversa mod 8983135642 (NE)
 257939755
 5041168147
 309079873
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4599550416 no tiene inversa mod 7320765914 (NE)
+Error: 4022931804 no tiene inversa mod 5803256818 (NE)
+Error: 1641466168 no tiene inversa mod 1362025112 (NE)
+Error: 5723862968 no tiene inversa mod 1174783402 (NE)
 3797927019
 4714136446
 2556338538
 1980681406
 2716271326
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4510878180 no tiene inversa mod 7625617833 (NE)
+Error: 6844362513 no tiene inversa mod 139103847 (NE)
 212534793
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3030655894 no tiene inversa mod 3542486214 (NE)
 2874913273
 1857055379
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 7146789136 no tiene inversa mod 4143929582 (NE)
+Error: 8299033684 no tiene inversa mod 6362622480 (NE)
+Error: 9574451075 no tiene inversa mod 5840212329 (NE)
 77858227
 513074451
 4399372695
 946567108
 186598992
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2037869844 no tiene inversa mod 9953677372 (NE)
 2684736710
 267759009
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8440851052 no tiene inversa mod 3650048148 (NE)
 953139781
 1028030247
-Error: 0 no tiene inversa mod 59 (NE)
+Error: 46402379 no tiene inversa mod 926058631 (NE)
 3227681107
 5387406019
 866873296
 8326029440
 1789352416
-Error: 0 no tiene inversa mod 15 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 6220450755 no tiene inversa mod 5664595245 (NE)
+Error: 5078241546 no tiene inversa mod 255232243 (NE)
 4625797996
 602992591
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3422085840 no tiene inversa mod 9936625174 (NE)
 241589335
 3605310848
 4855935615
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1813709674 no tiene inversa mod 5096097596 (NE)
 2367577977
 4496982668
 2389093018
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 9405796478 no tiene inversa mod 3062498540 (NE)
+Error: 4987841992 no tiene inversa mod 3983694870 (NE)
+Error: 9013021356 no tiene inversa mod 9828903090 (NE)
 1589589646
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7850435458 no tiene inversa mod 4148955296 (NE)
+Error: 4755831494 no tiene inversa mod 2985193910 (NE)
+Error: 8408100998 no tiene inversa mod 9645124278 (NE)
 1320449191
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2643627562 no tiene inversa mod 930939020 (NE)
 3183633151
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4245490968 no tiene inversa mod 8153569626 (NE)
+Error: 3323464558 no tiene inversa mod 9705320408 (NE)
 2528839989
 3491461157
 4146737452
 763264787
 5590136857
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 24 (NE)
+Error: 7002653716 no tiene inversa mod 337905956 (NE)
+Error: 1262413752 no tiene inversa mod 8991028320 (NE)
 7451209739
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3971021020 no tiene inversa mod 9044067895 (NE)
 3671800054
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2364602018 no tiene inversa mod 1030976832 (NE)
+Error: 5315711966 no tiene inversa mod 6288001696 (NE)
 1786718125
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 7304759536 no tiene inversa mod 8603153816 (NE)
 1791207152
 3149944001
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 67511782 no tiene inversa mod 5372166884 (NE)
 931633788
 4642000221
 151271659
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4276385205 no tiene inversa mod 743869191 (NE)
 2901654605
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2816631506 no tiene inversa mod 6548808276 (NE)
 96895239
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3213013010 no tiene inversa mod 4273891328 (NE)
 2791539109
 2491620356
 927789885
 2975246427
 3740856511
 976536577
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8375810446 no tiene inversa mod 815322132 (NE)
+Error: 1909110423 no tiene inversa mod 1366141338 (NE)
 555717849
 2540274593
 6874932409
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 6929089826 no tiene inversa mod 6523550122 (NE)
+Error: 8043346323 no tiene inversa mod 1194123132 (NE)
 756984961
 3707706941
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 729441574 no tiene inversa mod 1771405642 (NE)
+Error: 5227936989 no tiene inversa mod 5824010766 (NE)
 3392037461
 3358961233
 5701212606
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1836904252 no tiene inversa mod 8535871486 (NE)
+Error: 2903359820 no tiene inversa mod 8232086528 (NE)
+Error: 5476143788 no tiene inversa mod 8649803888 (NE)
 2466642504
 3634538745
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6146214760 no tiene inversa mod 7905916532 (NE)
+Error: 6718249014 no tiene inversa mod 2147246968 (NE)
 2907722189
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2625904608 no tiene inversa mod 8131637972 (NE)
 7765695571
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7463567454 no tiene inversa mod 3966062589 (NE)
 1144880171
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 1606121440 no tiene inversa mod 4427370277 (NE)
 6845566267
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 2189822815 no tiene inversa mod 276325955 (NE)
 2595161105
 7075286886
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 669212871 no tiene inversa mod 5351962044 (NE)
+Error: 3137666688 no tiene inversa mod 189827834 (NE)
+Error: 2275881854 no tiene inversa mod 4109231136 (NE)
+Error: 519759138 no tiene inversa mod 9200183710 (NE)
+Error: 20317956 no tiene inversa mod 2443257518 (NE)
 1827335902
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1591114415 no tiene inversa mod 2930584450 (NE)
 5263066279
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5670814692 no tiene inversa mod 1653618789 (NE)
 3755443105
 2625732613
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8387281854 no tiene inversa mod 1809481858 (NE)
+Error: 9162576346 no tiene inversa mod 3609834852 (NE)
 771735049
 1262895976
 3052208542
 7200635890
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 54 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 125201856 no tiene inversa mod 8254948623 (NE)
+Error: 5744465406 no tiene inversa mod 5437637622 (NE)
+Error: 7345402458 no tiene inversa mod 5973109014 (NE)
 125513122
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8355249618 no tiene inversa mod 444504856 (NE)
 174072249
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6426320810 no tiene inversa mod 304608994 (NE)
+Error: 7860984638 no tiene inversa mod 7050186388 (NE)
 213213960
 405239226
 276668936
@@ -5097,39 +5097,39 @@ Error: 0 no tiene inversa mod 2 (NE)
 447609761
 723945500
 1047898491
-Error: 0 no tiene inversa mod 85 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8460087485 no tiene inversa mod 3622242190 (NE)
+Error: 6844963746 no tiene inversa mod 9579201861 (NE)
 8139676309
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7735139384 no tiene inversa mod 4784015540 (NE)
 6086803165
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3123747111 no tiene inversa mod 4954948782 (NE)
+Error: 4987114828 no tiene inversa mod 4465809478 (NE)
+Error: 2174511807 no tiene inversa mod 9188840202 (NE)
+Error: 3554672968 no tiene inversa mod 2538076204 (NE)
 364672679
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3350921450 no tiene inversa mod 6477179495 (NE)
 7194869763
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 21 (NE)
+Error: 3943076859 no tiene inversa mod 4430027115 (NE)
+Error: 4819893393 no tiene inversa mod 1320801678 (NE)
 131523399
 6887972570
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9648289882 no tiene inversa mod 2069563024 (NE)
+Error: 9228494346 no tiene inversa mod 6824678277 (NE)
 323945990
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2121976518 no tiene inversa mod 6486006675 (NE)
+Error: 5267007432 no tiene inversa mod 9036373178 (NE)
+Error: 9819662644 no tiene inversa mod 6804495656 (NE)
 894788481
 185486714
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3776868925 no tiene inversa mod 2490509160 (NE)
 1048400667
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 4657533636 no tiene inversa mod 1407840526 (NE)
+Error: 9909874165 no tiene inversa mod 4546852510 (NE)
 1836642168
 5287468958
 3711038949
 573753271
-Error: 0 no tiene inversa mod 24 (NE)
+Error: 8714122488 no tiene inversa mod 9109983768 (NE)
 7069092589
 94904444
 803307658
@@ -5142,97 +5142,97 @@ Error: 0 no tiene inversa mod 24 (NE)
 1019749393
 3233963847
 3122177293
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7109681748 no tiene inversa mod 806453687 (NE)
+Error: 5171724982 no tiene inversa mod 7558790778 (NE)
 1445628367
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4305263548 no tiene inversa mod 896326658 (NE)
+Error: 5079480530 no tiene inversa mod 6596939874 (NE)
+Error: 2183146938 no tiene inversa mod 5572350610 (NE)
+Error: 2388848482 no tiene inversa mod 2196982954 (NE)
 4127519447
-Error: 0 no tiene inversa mod 12 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1744279836 no tiene inversa mod 3672166728 (NE)
+Error: 4240996166 no tiene inversa mod 2709364520 (NE)
+Error: 1584366726 no tiene inversa mod 923837252 (NE)
+Error: 7262864444 no tiene inversa mod 6197244008 (NE)
 1641996265
 337299201
 537770548
 4529715325
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4349884938 no tiene inversa mod 2531860875 (NE)
 128680922
 1731602935
 2509561922
 1212552150
 121749883
-Error: 0 no tiene inversa mod 40 (NE)
+Error: 1016959600 no tiene inversa mod 9977873960 (NE)
 317961961
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4836953178 no tiene inversa mod 7049021812 (NE)
+Error: 2304339514 no tiene inversa mod 5983885668 (NE)
 5876891615
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 3472971498 no tiene inversa mod 1389603426 (NE)
 615330976
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5620757187 no tiene inversa mod 8020175829 (NE)
+Error: 6268138854 no tiene inversa mod 9210593752 (NE)
 3541293169
 1076402191
 4707921867
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 18 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 7566003775 no tiene inversa mod 1859719490 (NE)
+Error: 1387935466 no tiene inversa mod 3132570286 (NE)
+Error: 9426214413 no tiene inversa mod 994421562 (NE)
+Error: 623539098 no tiene inversa mod 9537956928 (NE)
+Error: 7305696181 no tiene inversa mod 9313376716 (NE)
 1440636035
-Error: 0 no tiene inversa mod 21 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 37 (NE)
+Error: 6353453673 no tiene inversa mod 1824054540 (NE)
+Error: 3448941000 no tiene inversa mod 2058159249 (NE)
+Error: 4344027883 no tiene inversa mod 9121274743 (NE)
 170795161
-Error: 0 no tiene inversa mod 54 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1651521636 no tiene inversa mod 6074324838 (NE)
+Error: 3612343084 no tiene inversa mod 3973351124 (NE)
+Error: 8873413405 no tiene inversa mod 6195154735 (NE)
 445573433
 2625000276
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 7546577517 no tiene inversa mod 7758744075 (NE)
 8747602003
 6178883901
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7410168826 no tiene inversa mod 5768039132 (NE)
 1678042977
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8501114538 no tiene inversa mod 1352730854 (NE)
 7293438902
-Error: 0 no tiene inversa mod 15 (NE)
+Error: 9830228760 no tiene inversa mod 1972490145 (NE)
 3064475221
 1715160111
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 5464386888 no tiene inversa mod 8707918664 (NE)
 27572544
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 6199784538 no tiene inversa mod 2113250214 (NE)
 9176254851
 25083997
 928082755
 145293306
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9315863326 no tiene inversa mod 2262471674 (NE)
 4558702
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4681018870 no tiene inversa mod 1272027422 (NE)
+Error: 4443546194 no tiene inversa mod 9453159116 (NE)
 2344820039
 5150147129
 1200566356
-Error: 0 no tiene inversa mod 37 (NE)
+Error: 6869218313 no tiene inversa mod 7089002938 (NE)
 1306563816
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 567107799 no tiene inversa mod 8016210780 (NE)
+Error: 2652750462 no tiene inversa mod 3752913466 (NE)
 5263884070
 4011183048
 757219635
 1778779812
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 7070301994 no tiene inversa mod 4625499347 (NE)
 499433203
 1412168014
 519541869
 2079444328
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 4129695052 no tiene inversa mod 8881162156 (NE)
 4337651465
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6182148464 no tiene inversa mod 5781596774 (NE)
+Error: 3850370760 no tiene inversa mod 2642885404 (NE)
+Error: 5960501846 no tiene inversa mod 263318404 (NE)
 831493984
 5317384193
 73812994
@@ -5240,179 +5240,179 @@ Error: 0 no tiene inversa mod 2 (NE)
 250602837
 684747118
 4851868201
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4114539480 no tiene inversa mod 1178373669 (NE)
 3157768999
-Error: 0 no tiene inversa mod 78 (NE)
+Error: 5620856358 no tiene inversa mod 8952283704 (NE)
 1067833616
-Error: 0 no tiene inversa mod 16 (NE)
+Error: 3742710944 no tiene inversa mod 2038168656 (NE)
 2357661072
 1748583337
 8006105654
 3275735391
 144783793
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2365125508 no tiene inversa mod 7924113348 (NE)
+Error: 5004424916 no tiene inversa mod 4770490468 (NE)
+Error: 7494722879 no tiene inversa mod 6994035223 (NE)
+Error: 2433417964 no tiene inversa mod 2638690400 (NE)
 1993360543
 1219248199
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 278 (NE)
+Error: 3729728060 no tiene inversa mod 8018388598 (NE)
+Error: 6923424034 no tiene inversa mod 6437896478 (NE)
 1845782714
 1400172448
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 243540830 no tiene inversa mod 3828359244 (NE)
 5767721479
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6354569211 no tiene inversa mod 1487289111 (NE)
+Error: 7480446108 no tiene inversa mod 543467638 (NE)
 16798851
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3278279092 no tiene inversa mod 5956335936 (NE)
 1104881968
 875051560
 7937853103
 333856511
-Error: 0 no tiene inversa mod 10 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8852988950 no tiene inversa mod 5281129040 (NE)
+Error: 1669417529 no tiene inversa mod 6392480718 (NE)
+Error: 5303550093 no tiene inversa mod 8226005484 (NE)
+Error: 4891441779 no tiene inversa mod 4460514123 (NE)
 3660723343
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9121477014 no tiene inversa mod 6997889738 (NE)
 820748491
 3670555207
 1592056470
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4497186603 no tiene inversa mod 1612206033 (NE)
 334329503
-Error: 0 no tiene inversa mod 20 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2651346940 no tiene inversa mod 5948246720 (NE)
+Error: 3734513230 no tiene inversa mod 4828170888 (NE)
 733966868
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 9282317725 no tiene inversa mod 7865722955 (NE)
 2598999647
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8510914018 no tiene inversa mod 9571125618 (NE)
 1040965649
 4779493613
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4818097130 no tiene inversa mod 6111286274 (NE)
 804478847
 1241585401
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2319043740 no tiene inversa mod 258364161 (NE)
+Error: 9292946556 no tiene inversa mod 1980796467 (NE)
 527499052
 1184955409
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8260573154 no tiene inversa mod 2312898678 (NE)
 1728748987
 4393155958
 1579226269
 495301950
-Error: 0 no tiene inversa mod 15 (NE)
+Error: 1417579845 no tiene inversa mod 3441065940 (NE)
 39703513
 1836614812
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 5283129350 no tiene inversa mod 8406338480 (NE)
 211424653
 1742068657
 5396755905
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 1650202380 no tiene inversa mod 5091449178 (NE)
 4658926895
 3879090657
 1038843268
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 6254603235 no tiene inversa mod 553282218 (NE)
 3762288237
 1308398936
 961244889
 2931070696
 5321876779
-Error: 0 no tiene inversa mod 28 (NE)
-Error: 0 no tiene inversa mod 35 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6829181520 no tiene inversa mod 3857599228 (NE)
+Error: 2883607685 no tiene inversa mod 5956069210 (NE)
+Error: 8147674522 no tiene inversa mod 4782655666 (NE)
 2299629346
 943828681
 760074831
 6291151544
 6246460199
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1103299401 no tiene inversa mod 835711617 (NE)
 782103087
 1511041169
 559461761
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 2800986638 no tiene inversa mod 3804182256 (NE)
+Error: 6742218314 no tiene inversa mod 524226235 (NE)
 3550937809
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3601526547 no tiene inversa mod 1129573500 (NE)
 3654235393
 1107883136
 543011045
 915683029
 646770323
 243188081
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5664216566 no tiene inversa mod 2204292028 (NE)
+Error: 3984363568 no tiene inversa mod 947452744 (NE)
+Error: 3320348013 no tiene inversa mod 7824879699 (NE)
 1603534116
 2729972183
 2092338147
 4817745780
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 1417407908 no tiene inversa mod 2151245117 (NE)
 548601507
 608321557
 825845122
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1922927847 no tiene inversa mod 4482841248 (NE)
+Error: 5588663934 no tiene inversa mod 193730745 (NE)
 352372201
 31263327
 3563434823
 2962312501
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7183483432 no tiene inversa mod 6409906546 (NE)
+Error: 7714255906 no tiene inversa mod 5962777134 (NE)
 3889181446
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7532007596 no tiene inversa mod 9876092626 (NE)
 6770926843
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9607367584 no tiene inversa mod 8524016770 (NE)
 1250156831
 55490167
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 2602561098 no tiene inversa mod 9298067880 (NE)
 1392486776
 2667539134
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2948637568 no tiene inversa mod 5129744732 (NE)
 2278755871
 1563626929
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5982286766 no tiene inversa mod 3022720626 (NE)
 1050409333
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6854407230 no tiene inversa mod 962898185 (NE)
+Error: 3932315452 no tiene inversa mod 3855595419 (NE)
+Error: 2250756648 no tiene inversa mod 4120229282 (NE)
 6063675197
 1367853919
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2175191190 no tiene inversa mod 2262042868 (NE)
 1548615864
 398808610
 2236733286
 893933393
 2839554194
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 6087643902 no tiene inversa mod 2898918228 (NE)
 3055421259
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 5748161209 no tiene inversa mod 5742784026 (NE)
 1408940989
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 25 (NE)
+Error: 6790047486 no tiene inversa mod 5914525299 (NE)
+Error: 8936030925 no tiene inversa mod 118534025 (NE)
 1640470049
 1538930751
 4534657265
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 22 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2937047763 no tiene inversa mod 6568352169 (NE)
+Error: 1420591326 no tiene inversa mod 23368642 (NE)
+Error: 3040325294 no tiene inversa mod 4154452154 (NE)
+Error: 700115998 no tiene inversa mod 2132796672 (NE)
 200646485
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8912129105 no tiene inversa mod 2437315530 (NE)
+Error: 7075815888 no tiene inversa mod 1129009538 (NE)
 1182396023
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 2394916662 no tiene inversa mod 3526882386 (NE)
 2287348707
 456314819
 1003898835
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 4562541322 no tiene inversa mod 8905023770 (NE)
+Error: 3598809390 no tiene inversa mod 519965075 (NE)
 1844359856
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5922796895 no tiene inversa mod 8609252495 (NE)
+Error: 1160937142 no tiene inversa mod 7269582130 (NE)
 350255299
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 7733247454 no tiene inversa mod 6621291536 (NE)
+Error: 4483959116 no tiene inversa mod 9711442819 (NE)
 1025341037
 1664832581
 3373216315
@@ -5433,83 +5433,83 @@ Error: 0 no tiene inversa mod 13 (NE)
 3500429953
 771872245
 4087423803
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 754151060 no tiene inversa mod 5368812292 (NE)
 880825073
 1345779305
 2512404956
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1563105693 no tiene inversa mod 4987977753 (NE)
+Error: 5548164028 no tiene inversa mod 667409572 (NE)
 2114304224
 6406197365
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1600631182 no tiene inversa mod 7507727130 (NE)
+Error: 659249488 no tiene inversa mod 1944288414 (NE)
 4581918125
 128357217
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5640539676 no tiene inversa mod 8745762558 (NE)
+Error: 111237676 no tiene inversa mod 7398713326 (NE)
 2874045513
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 831592648 no tiene inversa mod 1330923228 (NE)
 1770370313
 1622657096
 102087091
-Error: 0 no tiene inversa mod 57 (NE)
+Error: 2346838827 no tiene inversa mod 2300660619 (NE)
 6119460748
 785530679
 886234497
 2162295479
 639019301
 1961174699
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 5290092675 no tiene inversa mod 5674030229 (NE)
 4143779180
-Error: 0 no tiene inversa mod 86 (NE)
+Error: 8727710860 no tiene inversa mod 1151427082 (NE)
 658188537
 5818199904
 5189125480
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4034224490 no tiene inversa mod 3220849692 (NE)
 2694234096
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3470573526 no tiene inversa mod 9947235219 (NE)
 2025607505
 3110440902
 89677657
-Error: 0 no tiene inversa mod 14 (NE)
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 9671681138 no tiene inversa mod 9441767524 (NE)
+Error: 6182448270 no tiene inversa mod 8782957630 (NE)
 5168329
 147610917
 578012737
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 1257953848 no tiene inversa mod 4383383744 (NE)
 3365661153
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 658311548 no tiene inversa mod 9693293440 (NE)
+Error: 8438507220 no tiene inversa mod 4917960618 (NE)
+Error: 8302961266 no tiene inversa mod 4561494742 (NE)
 657682103
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 8866726288 no tiene inversa mod 1037161358 (NE)
+Error: 1441364818 no tiene inversa mod 6769030674 (NE)
+Error: 6325768950 no tiene inversa mod 4204608036 (NE)
 546647230
 1725449268
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 89434071 no tiene inversa mod 3804292725 (NE)
 656335536
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 4898581400 no tiene inversa mod 2299964795 (NE)
 3228821731
 9367162937
 3485437171
 1565373439
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2348290772 no tiene inversa mod 5291475416 (NE)
 2576563413
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3058458424 no tiene inversa mod 2335321886 (NE)
 3309512799
 2920573020
 415139143
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6815400092 no tiene inversa mod 651305600 (NE)
+Error: 8269480935 no tiene inversa mod 6364099074 (NE)
 395567755
 208153025
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6909932018 no tiene inversa mod 7783451954 (NE)
 167355221
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7592617077 no tiene inversa mod 3963009312 (NE)
+Error: 7784058588 no tiene inversa mod 6219525938 (NE)
+Error: 3173946730 no tiene inversa mod 6759805494 (NE)
+Error: 2657388700 no tiene inversa mod 4471130238 (NE)
 783229759
 4764192564
 6971534991
@@ -5519,79 +5519,79 @@ Error: 0 no tiene inversa mod 2 (NE)
 22991995
 5085835053
 4471958921
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8208986204 no tiene inversa mod 3653404704 (NE)
 1062299585
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4125987274 no tiene inversa mod 360207428 (NE)
 6207985755
 1105625964
 467297118
 6218692435
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 258806166 no tiene inversa mod 1377723750 (NE)
+Error: 9182308542 no tiene inversa mod 2783519620 (NE)
+Error: 6508817722 no tiene inversa mod 326845312 (NE)
 3826041744
 7389908197
 1315082264
 3021275401
 884677027
 3534605299
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3947869872 no tiene inversa mod 2504596874 (NE)
 49949590
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7505046164 no tiene inversa mod 2609445904 (NE)
+Error: 378110594 no tiene inversa mod 6332479928 (NE)
 192718352
 1492171055
 222268707
 8594625153
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8712623398 no tiene inversa mod 4696044872 (NE)
 1524047510
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 452408518 no tiene inversa mod 2844859400 (NE)
+Error: 2398568585 no tiene inversa mod 1561072920 (NE)
+Error: 177758511 no tiene inversa mod 2561508480 (NE)
 170494143
 374746077
 129130145
 2166183191
-Error: 0 no tiene inversa mod 27 (NE)
+Error: 5707558863 no tiene inversa mod 2882158983 (NE)
 766110585
 2228488472
-Error: 0 no tiene inversa mod 25 (NE)
+Error: 5214575675 no tiene inversa mod 263874350 (NE)
 830511599
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 9521089020 no tiene inversa mod 2661126682 (NE)
+Error: 5009551848 no tiene inversa mod 2045134424 (NE)
 2348984956
 2169328121
 3073011275
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1590985305 no tiene inversa mod 7651827366 (NE)
 2755179100
 2618524833
 1315492942
 961916101
 126539381
 1904597124
-Error: 0 no tiene inversa mod 24 (NE)
+Error: 2407053816 no tiene inversa mod 1328732952 (NE)
 78518699
 4761655735
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7244596446 no tiene inversa mod 7325582019 (NE)
+Error: 6667683534 no tiene inversa mod 8019600586 (NE)
 116944561
 2182019384
 1952879163
 563668483
 2141535196
 4145331162
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 6283105895 no tiene inversa mod 1190445124 (NE)
 9814225645
 1797137869
 1030241765
 5897359059
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9323056126 no tiene inversa mod 1540505126 (NE)
 2713130878
 6861351291
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 4295010990 no tiene inversa mod 2423640364 (NE)
+Error: 6731305000 no tiene inversa mod 5625348308 (NE)
 509882687
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9003897194 no tiene inversa mod 1893866804 (NE)
 1796050816
 2543562895
 4262777283
@@ -5602,42 +5602,42 @@ Error: 0 no tiene inversa mod 2 (NE)
 5308531203
 4549260555
 876766411
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6349476498 no tiene inversa mod 4243824216 (NE)
+Error: 3599469986 no tiene inversa mod 8534991112 (NE)
+Error: 4119618244 no tiene inversa mod 480642086 (NE)
+Error: 5381393130 no tiene inversa mod 7057247938 (NE)
 4278635287
 3556418396
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 802573344 no tiene inversa mod 6735565978 (NE)
+Error: 2270921384 no tiene inversa mod 5983432376 (NE)
+Error: 2634030122 no tiene inversa mod 3545197978 (NE)
 338876198
 3708280673
 1406950289
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4325950632 no tiene inversa mod 8329193098 (NE)
+Error: 8393021196 no tiene inversa mod 735521000 (NE)
+Error: 6883814060 no tiene inversa mod 1188918762 (NE)
 7143782209
 4996784728
 3518379113
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6893137264 no tiene inversa mod 3522944094 (NE)
 3571072012
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7844564064 no tiene inversa mod 2373485943 (NE)
 1323252111
-Error: 0 no tiene inversa mod 92 (NE)
+Error: 380898032 no tiene inversa mod 9724532204 (NE)
 2105309821
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7168313925 no tiene inversa mod 1918895772 (NE)
 3281310050
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 6640530564 no tiene inversa mod 9016612140 (NE)
 4346165477
 3670597355
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7220820706 no tiene inversa mod 867088674 (NE)
 1172104666
 1528650085
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 8789580455 no tiene inversa mod 882032810 (NE)
 219669121
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8102026827 no tiene inversa mod 9352594935 (NE)
+Error: 6057531702 no tiene inversa mod 3377013454 (NE)
 2215529534
 264829149
 1690151330
@@ -5645,155 +5645,155 @@ Error: 0 no tiene inversa mod 2 (NE)
 2777746779
 1928074811
 1826955959
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1237119806 no tiene inversa mod 8163562534 (NE)
 5084943907
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 4650021350 no tiene inversa mod 604544239 (NE)
 797510826
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9004037622 no tiene inversa mod 4599951134 (NE)
 272721793
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 5309311792 no tiene inversa mod 1611906868 (NE)
 1106574486
 3858289217
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1491600951 no tiene inversa mod 8137135830 (NE)
 8458663129
 2426717430
 4114627073
 2512711054
 7044066791
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4293026682 no tiene inversa mod 8621061111 (NE)
 3883865552
 3857308476
 815743249
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 761928322 no tiene inversa mod 9630352346 (NE)
 1465154687
 2533737362
 3856136910
 1165202348
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3782994484 no tiene inversa mod 2999730834 (NE)
 677450791
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5274260522 no tiene inversa mod 5352026574 (NE)
 677148199
 4473323704
 580195987
 84285161
 2027816989
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7599803756 no tiene inversa mod 9507864382 (NE)
 1062569424
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2808630819 no tiene inversa mod 4884691452 (NE)
+Error: 4383629266 no tiene inversa mod 5337491878 (NE)
+Error: 6630956332 no tiene inversa mod 7563926984 (NE)
+Error: 9997423464 no tiene inversa mod 8718915519 (NE)
+Error: 90154086 no tiene inversa mod 8137469814 (NE)
+Error: 1384260910 no tiene inversa mod 7374659602 (NE)
 915789019
 7356840663
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9698360262 no tiene inversa mod 2543972056 (NE)
+Error: 4208279070 no tiene inversa mod 4512611716 (NE)
 121636243
 356509091
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 389330888 no tiene inversa mod 838984904 (NE)
+Error: 7198633682 no tiene inversa mod 5709440952 (NE)
 2786923902
 7702491571
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2868764076 no tiene inversa mod 3569658069 (NE)
 1561537895
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6429810242 no tiene inversa mod 300699242 (NE)
 3276617279
 7100513324
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4490350965 no tiene inversa mod 535026669 (NE)
+Error: 4419857406 no tiene inversa mod 1988957638 (NE)
+Error: 6100306184 no tiene inversa mod 8610428182 (NE)
 3355814231
 6140768821
 7648710453
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 199044262 no tiene inversa mod 9576757860 (NE)
+Error: 8991927658 no tiene inversa mod 3111242262 (NE)
+Error: 7828660838 no tiene inversa mod 2168755742 (NE)
 5483428252
 984575621
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1193935294 no tiene inversa mod 1354918468 (NE)
 2570305223
 2460225648
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9173292237 no tiene inversa mod 7000001166 (NE)
 2228648543
 2990563111
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3987307221 no tiene inversa mod 7337819751 (NE)
+Error: 1152330836 no tiene inversa mod 2566660968 (NE)
+Error: 8890056688 no tiene inversa mod 5491882754 (NE)
 875422969
 1918840041
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2214912888 no tiene inversa mod 689740143 (NE)
 5071057027
 1694572021
-Error: 0 no tiene inversa mod 208 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7134643152 no tiene inversa mod 4879488224 (NE)
+Error: 5981927308 no tiene inversa mod 2373707306 (NE)
+Error: 8300136501 no tiene inversa mod 3003599499 (NE)
 663259297
 131500373
 199845128
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 7245452627 no tiene inversa mod 9776548047 (NE)
 5303606912
 1632475493
 2765717795
 382954234
 4892056843
-Error: 0 no tiene inversa mod 16 (NE)
+Error: 8861852848 no tiene inversa mod 2478082704 (NE)
 2251512400
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 9839962412 no tiene inversa mod 9897871304 (NE)
+Error: 8314317896 no tiene inversa mod 1366965368 (NE)
 2600023043
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1017928524 no tiene inversa mod 3622233140 (NE)
 2763791066
 1248635371
 5914208148
 1343367548
-Error: 0 no tiene inversa mod 16 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
+Error: 6979277712 no tiene inversa mod 3500598176 (NE)
+Error: 355825245 no tiene inversa mod 4750081641 (NE)
+Error: 7593580280 no tiene inversa mod 7580012427 (NE)
 1524773629
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9662189958 no tiene inversa mod 9750289504 (NE)
 4160695311
 2400815745
 2230157938
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2239262744 no tiene inversa mod 8844856722 (NE)
 281827285
 3406798061
 1262013618
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9522032924 no tiene inversa mod 1409020478 (NE)
 3510165661
 7154772281
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1420526172 no tiene inversa mod 9136668537 (NE)
 4947888253
 56157889
-Error: 0 no tiene inversa mod 10 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1662140170 no tiene inversa mod 7778834020 (NE)
+Error: 5689911694 no tiene inversa mod 872574664 (NE)
+Error: 2441679004 no tiene inversa mod 9493129016 (NE)
+Error: 503650677 no tiene inversa mod 2779433247 (NE)
 3509633073
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8747969770 no tiene inversa mod 1781244652 (NE)
 1560605095
 383246009
-Error: 0 no tiene inversa mod 10 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8930770100 no tiene inversa mod 4907366990 (NE)
+Error: 3467243440 no tiene inversa mod 7154586998 (NE)
+Error: 3323123373 no tiene inversa mod 539596263 (NE)
 4255433641
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9844460996 no tiene inversa mod 8729800412 (NE)
+Error: 1020899900 no tiene inversa mod 9999403892 (NE)
+Error: 4972168962 no tiene inversa mod 1828942053 (NE)
 1949848157
 87221542
 2081262421
-Error: 0 no tiene inversa mod 282 (NE)
+Error: 7144452516 no tiene inversa mod 5650683570 (NE)
 7518491433
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3282949856 no tiene inversa mod 6366732084 (NE)
 534619905
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7903169072 no tiene inversa mod 9883508118 (NE)
 907249999
 186205079
 687718201
 602776940
 1200431894
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9144456186 no tiene inversa mod 9994372718 (NE)
 1168643861
 1396861963
 698563175
@@ -5801,414 +5801,414 @@ Error: 0 no tiene inversa mod 2 (NE)
 3481889185
 347823512
 1139471203
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3202054926 no tiene inversa mod 5976237903 (NE)
 2667982494
 329962662
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2002156293 no tiene inversa mod 1331090124 (NE)
 1958726689
 433849987
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 5893388220 no tiene inversa mod 7756005125 (NE)
+Error: 7341787387 no tiene inversa mod 5569615436 (NE)
 57668936
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7537976088 no tiene inversa mod 2295252633 (NE)
 6997810246
-Error: 0 no tiene inversa mod 23 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 70 (NE)
+Error: 9036929126 no tiene inversa mod 6471360937 (NE)
+Error: 5551171436 no tiene inversa mod 5334513332 (NE)
+Error: 320499156 no tiene inversa mod 6915664202 (NE)
+Error: 8997938670 no tiene inversa mod 5989916800 (NE)
 6165468497
 1315632397
 2070420720
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 25 (NE)
+Error: 7059436254 no tiene inversa mod 7082818029 (NE)
+Error: 9845355843 no tiene inversa mod 6784712115 (NE)
+Error: 1551363925 no tiene inversa mod 6104184900 (NE)
 3471793741
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 511880260 no tiene inversa mod 1100737024 (NE)
 3043893161
 5581365739
 3812245063
 3227044794
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5039612714 no tiene inversa mod 7667360862 (NE)
 5704971766
-Error: 0 no tiene inversa mod 10 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3196194860 no tiene inversa mod 9214601970 (NE)
+Error: 1723933448 no tiene inversa mod 3806834496 (NE)
+Error: 3673528610 no tiene inversa mod 5008997748 (NE)
 1009146583
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6770291238 no tiene inversa mod 5853501484 (NE)
 1684710731
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7899653896 no tiene inversa mod 3333481604 (NE)
 6918383942
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 2055588807 no tiene inversa mod 4777433148 (NE)
+Error: 4697021104 no tiene inversa mod 8887161222 (NE)
+Error: 2528422050 no tiene inversa mod 2045068374 (NE)
 1021799878
 877480185
 1918814198
 956822686
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8743566662 no tiene inversa mod 3177874264 (NE)
 2173407007
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9172354972 no tiene inversa mod 319230928 (NE)
+Error: 3558443930 no tiene inversa mod 3153107866 (NE)
 716451537
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6930310467 no tiene inversa mod 4192984695 (NE)
 1318296505
 5314117974
 557990661
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6320214142 no tiene inversa mod 2966489952 (NE)
 2271857053
-Error: 0 no tiene inversa mod 49 (NE)
+Error: 6075923217 no tiene inversa mod 8629923953 (NE)
 1044914284
 728249721
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 551454010 no tiene inversa mod 607568206 (NE)
 1310557583
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1217360307 no tiene inversa mod 5816861262 (NE)
 925323361
 477848164
 252284253
 99485604
 1542480603
 3459270433
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7078839902 no tiene inversa mod 4823778520 (NE)
+Error: 5321800131 no tiene inversa mod 634792005 (NE)
 2979764049
 5024366469
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5739916569 no tiene inversa mod 6763774791 (NE)
+Error: 9790795822 no tiene inversa mod 5502959786 (NE)
 4928838347
 6547130831
 29016240
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 551170852 no tiene inversa mod 7313889736 (NE)
+Error: 1308763868 no tiene inversa mod 7474545736 (NE)
 1465578153
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4820914204 no tiene inversa mod 1367547880 (NE)
+Error: 9967372890 no tiene inversa mod 1984273812 (NE)
 909507818
 2175872245
 4232398257
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4914387522 no tiene inversa mod 5313430262 (NE)
 1487783687
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5850558554 no tiene inversa mod 6985983192 (NE)
 25953801
 118835893
 112746263
 334588181
-Error: 0 no tiene inversa mod 29 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5053990950 no tiene inversa mod 9197920459 (NE)
+Error: 9950320930 no tiene inversa mod 329862216 (NE)
 132130363
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 253410876 no tiene inversa mod 159818499 (NE)
+Error: 6401156186 no tiene inversa mod 7771791996 (NE)
 871190263
 654249057
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6087768567 no tiene inversa mod 2220618864 (NE)
 3559052959
 2963983143
 7141391794
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 3882003684 no tiene inversa mod 237083019 (NE)
+Error: 8959530042 no tiene inversa mod 5086899536 (NE)
+Error: 1999917759 no tiene inversa mod 3386737067 (NE)
 4796686769
 5153936367
 5918275091
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 344786439 no tiene inversa mod 8060287638 (NE)
+Error: 5821144005 no tiene inversa mod 6316078119 (NE)
+Error: 635641290 no tiene inversa mod 5830921004 (NE)
 6359466460
 3405713587
 4624836253
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7068633194 no tiene inversa mod 3602715306 (NE)
 5936891185
 1298835143
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 6731164325 no tiene inversa mod 7336946445 (NE)
 7236589959
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5417688640 no tiene inversa mod 1642446314 (NE)
 2202137586
 214122025
 6262707200
 360584710
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 4653098328 no tiene inversa mod 7463343410 (NE)
+Error: 2240911390 no tiene inversa mod 8765425620 (NE)
 4523002957
 5088086193
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3064244940 no tiene inversa mod 2513515712 (NE)
 215862585
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 2879409090 no tiene inversa mod 1581065484 (NE)
 5070446569
 1980523225
 1805725882
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 31 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4139275258 no tiene inversa mod 7749545874 (NE)
+Error: 1304399338 no tiene inversa mod 5702059555 (NE)
+Error: 8031388962 no tiene inversa mod 3758431288 (NE)
 407426932
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9651896618 no tiene inversa mod 4080541550 (NE)
 999014050
 3411204725
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7976610860 no tiene inversa mod 5508579722 (NE)
 1066674649
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 1481590914 no tiene inversa mod 7155826048 (NE)
+Error: 1607978727 no tiene inversa mod 675653103 (NE)
 4090544529
 105662734
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1096116966 no tiene inversa mod 1144961266 (NE)
+Error: 1769785450 no tiene inversa mod 3092032906 (NE)
 5568221865
 1087224823
 327512890
 3698778339
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 26 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5309319256 no tiene inversa mod 6543628698 (NE)
+Error: 7188683554 no tiene inversa mod 5248887176 (NE)
+Error: 9996395098 no tiene inversa mod 3749890896 (NE)
 980004709
 416259143
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4172833336 no tiene inversa mod 6733264614 (NE)
 340694687
 291410589
 5856116976
 213221869
-Error: 0 no tiene inversa mod 37 (NE)
+Error: 5520611973 no tiene inversa mod 6054445420 (NE)
 113068036
 1656697936
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6230759676 no tiene inversa mod 1134782800 (NE)
 2166073771
-Error: 0 no tiene inversa mod 21 (NE)
+Error: 9896696103 no tiene inversa mod 9965911284 (NE)
 5885213921
 5938511608
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 7198708052 no tiene inversa mod 6300757220 (NE)
+Error: 1495437392 no tiene inversa mod 2569291294 (NE)
+Error: 1393369290 no tiene inversa mod 2765183124 (NE)
 4710912088
 130793413
 3540380999
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 102907624 no tiene inversa mod 2588867480 (NE)
 2708472298
-Error: 0 no tiene inversa mod 10 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 8826309980 no tiene inversa mod 4322308990 (NE)
+Error: 7731243012 no tiene inversa mod 5747440502 (NE)
+Error: 2729428150 no tiene inversa mod 95534170 (NE)
 1898417393
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5859402261 no tiene inversa mod 5362291833 (NE)
+Error: 7270166160 no tiene inversa mod 8771284762 (NE)
+Error: 7960336948 no tiene inversa mod 6331618104 (NE)
+Error: 5191601120 no tiene inversa mod 4052088582 (NE)
 5253843862
 2068927139
 2022213562
 3616132323
 1597455441
 1641839945
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1554941656 no tiene inversa mod 506539124 (NE)
 74614051
 176152556
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3614396348 no tiene inversa mod 9701254760 (NE)
 1781560751
 5247872566
 2395667234
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4389403276 no tiene inversa mod 3886368188 (NE)
+Error: 6357680526 no tiene inversa mod 8351493100 (NE)
 337953984
 3509744786
 2383495979
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 2500172689 no tiene inversa mod 4185737759 (NE)
 2118064225
 3687522630
 1873766221
-Error: 0 no tiene inversa mod 17 (NE)
-Error: 0 no tiene inversa mod 18 (NE)
+Error: 6441485997 no tiene inversa mod 9891682033 (NE)
+Error: 9303364566 no tiene inversa mod 5078749932 (NE)
 1542078115
 419289467
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6273404550 no tiene inversa mod 6016831678 (NE)
 880494741
 632617665
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1349454735 no tiene inversa mod 4226006305 (NE)
 5207589633
 372889142
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7597973686 no tiene inversa mod 7032192948 (NE)
 1897754744
 1061841512
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 4188495014 no tiene inversa mod 5523221231 (NE)
 5613975847
 2340693364
 3759883663
 287711997
 2755066426
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4036699670 no tiene inversa mod 2394173774 (NE)
 6814300639
 9442175791
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 834753225 no tiene inversa mod 3146602985 (NE)
+Error: 5800979178 no tiene inversa mod 9885833824 (NE)
+Error: 2763350779 no tiene inversa mod 7918265047 (NE)
+Error: 5258336246 no tiene inversa mod 3303233688 (NE)
+Error: 5866430452 no tiene inversa mod 3633716950 (NE)
 164283845
 3653662202
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 6402420468 no tiene inversa mod 7967693889 (NE)
 1698193861
 1223269661
 64948652
 4836258109
 22621285
 1141863357
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3697641366 no tiene inversa mod 6661218356 (NE)
 4351943470
 2419758721
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3429561396 no tiene inversa mod 6559317639 (NE)
 168630447
 2546503415
 5123302864
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 9035885804 no tiene inversa mod 110541032 (NE)
+Error: 716838606 no tiene inversa mod 5612974998 (NE)
 3068382039
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2450175843 no tiene inversa mod 7687267443 (NE)
+Error: 9644243529 no tiene inversa mod 6699437226 (NE)
 1057069302
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 770277045 no tiene inversa mod 686204997 (NE)
+Error: 1603103650 no tiene inversa mod 4296732782 (NE)
 2824281026
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 61 (NE)
-Error: 0 no tiene inversa mod 20 (NE)
+Error: 5423689470 no tiene inversa mod 3633201549 (NE)
+Error: 3469073233 no tiene inversa mod 9909883710 (NE)
+Error: 127075760 no tiene inversa mod 6441896060 (NE)
 2350922624
 5002002420
 3380558602
 1207336073
 835073575
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3528045843 no tiene inversa mod 9168011310 (NE)
 3316651703
 1892725239
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2135394934 no tiene inversa mod 9786224996 (NE)
 5707948283
 213601852
 3063274412
 611440011
 2322233187
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3215656743 no tiene inversa mod 5714184726 (NE)
 2340559282
 832907686
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8744520938 no tiene inversa mod 7462911836 (NE)
 5975389726
 1175241073
-Error: 0 no tiene inversa mod 11 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 8947215552 no tiene inversa mod 6910446961 (NE)
+Error: 2325831291 no tiene inversa mod 7788460148 (NE)
 2174515509
 38233586
 1709132567
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 9776863244 no tiene inversa mod 3564256248 (NE)
 194176006
-Error: 0 no tiene inversa mod 166 (NE)
+Error: 1581015042 no tiene inversa mod 4768258036 (NE)
 1222083146
 3570164528
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1273711845 no tiene inversa mod 6840315725 (NE)
 2750762864
 1688221914
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 8013702970 no tiene inversa mod 1846888620 (NE)
 1126645289
 517357465
 2042511459
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7602767436 no tiene inversa mod 3069944968 (NE)
 3114440728
-Error: 0 no tiene inversa mod 43 (NE)
+Error: 5726339283 no tiene inversa mod 826611059 (NE)
 2832715439
 1122340287
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9814724498 no tiene inversa mod 2194665946 (NE)
 6571602163
 2311777140
 554932979
 439750144
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2867138252 no tiene inversa mod 103217386 (NE)
 402827699
 7041265564
 5288949114
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8784161436 no tiene inversa mod 8703267070 (NE)
 3317589713
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 5251767120 no tiene inversa mod 1472318770 (NE)
 1155037006
 393488801
 7635798530
 5495514046
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 5814302592 no tiene inversa mod 9254397084 (NE)
 2140825736
-Error: 0 no tiene inversa mod 39 (NE)
+Error: 1893608652 no tiene inversa mod 9159760623 (NE)
 1087295763
 1760463641
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 93061434 no tiene inversa mod 2171990150 (NE)
+Error: 7644879968 no tiene inversa mod 6197051010 (NE)
 3027287301
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 9117907576 no tiene inversa mod 324328304 (NE)
 5393617503
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2602229205 no tiene inversa mod 8358744545 (NE)
+Error: 4889548138 no tiene inversa mod 5036233086 (NE)
 1074299
 639656078
 1110898407
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9990071838 no tiene inversa mod 9052858522 (NE)
 145165003
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3382745620 no tiene inversa mod 899927774 (NE)
 3807268906
 1115566859
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9372778154 no tiene inversa mod 6827697444 (NE)
 5734302616
 2735919845
-Error: 0 no tiene inversa mod 17 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1367126944 no tiene inversa mod 3874152049 (NE)
+Error: 8103942636 no tiene inversa mod 1476325592 (NE)
 2105564704
 3283035217
 2486597293
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 9717413601 no tiene inversa mod 2134606348 (NE)
 2843318521
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8625720868 no tiene inversa mod 993463920 (NE)
 7403701713
 7421869370
 79259088
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3044430660 no tiene inversa mod 1730732091 (NE)
 873951524
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9827243376 no tiene inversa mod 5050948701 (NE)
+Error: 4398405172 no tiene inversa mod 3172013982 (NE)
 1780241044
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2246772638 no tiene inversa mod 1892655630 (NE)
 3000152089
 6257580723
 257857357
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 115 (NE)
+Error: 6449956276 no tiene inversa mod 1494716372 (NE)
+Error: 638258764 no tiene inversa mod 6525061699 (NE)
+Error: 1286533405 no tiene inversa mod 8979653560 (NE)
 3092358214
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6912017595 no tiene inversa mod 3264680868 (NE)
 2011301791
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3038042532 no tiene inversa mod 8022173704 (NE)
+Error: 2614870898 no tiene inversa mod 605080656 (NE)
 523716241
 7606716937
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1887874766 no tiene inversa mod 6677201380 (NE)
 1892129924
 709761690
 2839288045
 3433442438
 966456713
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 1275030498 no tiene inversa mod 1732814881 (NE)
 6767341552
 7936418031
 199139474
 739616056
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9437636217 no tiene inversa mod 7368044916 (NE)
 1565742478
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 56 (NE)
+Error: 9841568384 no tiene inversa mod 5664869548 (NE)
+Error: 4206361544 no tiene inversa mod 6582035432 (NE)
 3676820485
 798150852
 3694910044
 1450855099
 6790911947
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9132927876 no tiene inversa mod 886207190 (NE)
+Error: 4319480548 no tiene inversa mod 7909815598 (NE)
 22962175
 411359962
 21742587
 4996917265
 1577232663
-Error: 0 no tiene inversa mod 76 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 1851672132 no tiene inversa mod 7473866600 (NE)
+Error: 3191685435 no tiene inversa mod 1148821700 (NE)
 721437865
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9228631528 no tiene inversa mod 1407240894 (NE)
 8793146415
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9999199785 no tiene inversa mod 4422331437 (NE)
 8475689323
 893941057
 5506467156
@@ -6219,38 +6219,38 @@ Error: 0 no tiene inversa mod 3 (NE)
 1732558101
 4838332661
 5093348415
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 6857106126 no tiene inversa mod 8087554260 (NE)
+Error: 8992694485 no tiene inversa mod 3306634860 (NE)
 1303437351
 2373427907
 6027575521
 1485952315
 4469248709
 438487064
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9376016938 no tiene inversa mod 9681373296 (NE)
 4277456179
 4914373074
 3954981937
 1166145160
 2169769750
 392807771
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 45 (NE)
+Error: 8898966494 no tiene inversa mod 8812301570 (NE)
+Error: 1640839320 no tiene inversa mod 2838238875 (NE)
 516745965
 1141269047
 3274487333
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 14 (NE)
+Error: 6556726354 no tiene inversa mod 7236119862 (NE)
+Error: 2867521622 no tiene inversa mod 2841527702 (NE)
+Error: 8102618874 no tiene inversa mod 1889312390 (NE)
 605420581
-Error: 0 no tiene inversa mod 73 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4750295639 no tiene inversa mod 6061001295 (NE)
+Error: 1802901228 no tiene inversa mod 7319646258 (NE)
+Error: 8682856682 no tiene inversa mod 8193935542 (NE)
+Error: 3786564585 no tiene inversa mod 2371387119 (NE)
+Error: 2201129242 no tiene inversa mod 4231189428 (NE)
 4632297963
 2891801000
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4306414887 no tiene inversa mod 5137370628 (NE)
 1757620329
 140666182
 5831247271
@@ -6262,127 +6262,127 @@ Error: 0 no tiene inversa mod 3 (NE)
 400406835
 2931059822
 2197043459
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2333927344 no tiene inversa mod 1973587330 (NE)
 1453018855
 46740002
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4473602607 no tiene inversa mod 3142029942 (NE)
+Error: 9662892026 no tiene inversa mod 2022882544 (NE)
 1838920594
 6826936912
 260106925
 6246337501
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 5071953880 no tiene inversa mod 4462315315 (NE)
 5817432957
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 2454277518 no tiene inversa mod 5940732049 (NE)
 55247913
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 916645773 no tiene inversa mod 204443277 (NE)
+Error: 5520754468 no tiene inversa mod 7909974304 (NE)
 470084889
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3033087880 no tiene inversa mod 4635435486 (NE)
 2038887143
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 4021181595 no tiene inversa mod 9985793598 (NE)
 606705368
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1164476598 no tiene inversa mod 2004456480 (NE)
+Error: 6995471926 no tiene inversa mod 3855645526 (NE)
+Error: 2839418202 no tiene inversa mod 5584947046 (NE)
 1746682516
 171701978
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 7542679490 no tiene inversa mod 6650627145 (NE)
 3988247641
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6975156615 no tiene inversa mod 9369244092 (NE)
 2247423697
 3497149111
 445411004
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 9799258578 no tiene inversa mod 3475763744 (NE)
+Error: 4672834310 no tiene inversa mod 7179031155 (NE)
 1400547970
 5007623758
 5854035110
 6221687873
 4911759307
 2107209579
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 8664835474 no tiene inversa mod 3301078092 (NE)
+Error: 3496560056 no tiene inversa mod 1476722592 (NE)
 497003343
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1394036452 no tiene inversa mod 820965780 (NE)
 842128096
-Error: 0 no tiene inversa mod 36 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1368641052 no tiene inversa mod 953907084 (NE)
+Error: 4244603572 no tiene inversa mod 1472443072 (NE)
 2907091941
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 7547915324 no tiene inversa mod 7187381010 (NE)
+Error: 8340899718 no tiene inversa mod 4495299252 (NE)
 6372677866
 4211108667
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9426528478 no tiene inversa mod 3285654022 (NE)
 1586184583
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 129478860 no tiene inversa mod 4867007912 (NE)
 5134436273
 498901668
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8892843018 no tiene inversa mod 9090707510 (NE)
 7109242585
 7802632579
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 1491700077 no tiene inversa mod 3176717517 (NE)
 4428382039
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 310754524 no tiene inversa mod 2640979634 (NE)
 450614669
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 755938624 no tiene inversa mod 1642187002 (NE)
+Error: 8791087844 no tiene inversa mod 7601964452 (NE)
 7269223981
 6052763056
 1576467369
 2092907520
 2374503749
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1974044480 no tiene inversa mod 6979447144 (NE)
+Error: 8475681220 no tiene inversa mod 6420783186 (NE)
 32412661
 7411112995
-Error: 0 no tiene inversa mod 14 (NE)
+Error: 4660225948 no tiene inversa mod 9023097146 (NE)
 5627430017
 4421279741
 2361388225
 4819604427
-Error: 0 no tiene inversa mod 45 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 6991470945 no tiene inversa mod 7163238420 (NE)
+Error: 4873153312 no tiene inversa mod 3047854488 (NE)
 6693460031
 4729093326
 8431053039
 1316618976
-Error: 0 no tiene inversa mod 52 (NE)
+Error: 2513758052 no tiene inversa mod 2409320004 (NE)
 351410688
 1981723891
 3154076089
 69493023
 317131237
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8522712972 no tiene inversa mod 5812976020 (NE)
+Error: 5051115674 no tiene inversa mod 3182336270 (NE)
+Error: 7350203044 no tiene inversa mod 649989552 (NE)
+Error: 1958917239 no tiene inversa mod 7045183272 (NE)
 1952577766
 2005847788
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9019656266 no tiene inversa mod 4420246622 (NE)
 2130709959
 1027361511
 5794497789
 679131681
-Error: 0 no tiene inversa mod 33 (NE)
+Error: 3367271391 no tiene inversa mod 3944304870 (NE)
 412514117
 1784309533
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 40 (NE)
+Error: 1016676190 no tiene inversa mod 5327965468 (NE)
+Error: 8767534120 no tiene inversa mod 7520091840 (NE)
 486574609
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1476251606 no tiene inversa mod 58392332 (NE)
 6500845653
 1322193395
 360788765
 4935892957
 7339380840
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9009854238 no tiene inversa mod 6830095809 (NE)
 4381355829
 577675527
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1804598466 no tiene inversa mod 9665733348 (NE)
+Error: 9746779776 no tiene inversa mod 6282713450 (NE)
+Error: 3397379908 no tiene inversa mod 38935534 (NE)
+Error: 9113225606 no tiene inversa mod 899084532 (NE)
 2858714616
 1910707268
 3610012375
@@ -6390,31 +6390,31 @@ Error: 0 no tiene inversa mod 2 (NE)
 2190844343
 7354648240
 557051472
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 8975822187 no tiene inversa mod 5950731630 (NE)
 992024200
 6574984885
 1571621718
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9971741338 no tiene inversa mod 5301151658 (NE)
 4676625521
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7781992752 no tiene inversa mod 6591946882 (NE)
 16813049
-Error: 0 no tiene inversa mod 82 (NE)
+Error: 6371863136 no tiene inversa mod 1045324274 (NE)
 3468331179
 2147471937
 1073843205
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5472812364 no tiene inversa mod 9757510983 (NE)
 778975835
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 8441632035 no tiene inversa mod 9614462646 (NE)
+Error: 4495808072 no tiene inversa mod 2388603651 (NE)
 402400852
-Error: 0 no tiene inversa mod 664 (NE)
+Error: 669666576 no tiene inversa mod 9878746984 (NE)
 484098365
-Error: 0 no tiene inversa mod 17 (NE)
+Error: 635296052 no tiene inversa mod 5275895991 (NE)
 4271091956
 1841866487
 3349035093
 3290395171
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 97129596 no tiene inversa mod 6204766888 (NE)
 1599405943
 3376478137
 1288573901
@@ -6422,22 +6422,22 @@ Error: 0 no tiene inversa mod 4 (NE)
 2267447449
 4436954465
 3473178556
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4204846362 no tiene inversa mod 2769980314 (NE)
 1248209132
 170921086
 240345997
 224755805
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1905049894 no tiene inversa mod 1644425248 (NE)
 4411566793
 1006478294
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1365238749 no tiene inversa mod 9009980580 (NE)
 1252915483
 2147909933
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9890802870 no tiene inversa mod 1627030398 (NE)
+Error: 5709316476 no tiene inversa mod 8345975973 (NE)
 167958845
 8418597771
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4630276378 no tiene inversa mod 4638917918 (NE)
 2656100559
 1735118237
 310520786
@@ -6445,217 +6445,217 @@ Error: 0 no tiene inversa mod 2 (NE)
 586046529
 977750167
 1283669858
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4801100106 no tiene inversa mod 2948402481 (NE)
+Error: 3177893412 no tiene inversa mod 1849147606 (NE)
+Error: 1031480774 no tiene inversa mod 2510437966 (NE)
 2626905425
-Error: 0 no tiene inversa mod 294 (NE)
+Error: 3468541440 no tiene inversa mod 3268843998 (NE)
 2283339169
 3242938598
-Error: 0 no tiene inversa mod 19 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4858505143 no tiene inversa mod 866376877 (NE)
+Error: 2283557439 no tiene inversa mod 8978271489 (NE)
+Error: 4841579343 no tiene inversa mod 6160260834 (NE)
 2069679461
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6301678101 no tiene inversa mod 6447986598 (NE)
 2830614565
 507971858
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2065313220 no tiene inversa mod 838304301 (NE)
 820686364
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2279937866 no tiene inversa mod 2235192722 (NE)
 5413123581
 2187153288
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 5769762229 no tiene inversa mod 7235217661 (NE)
 9767906
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 4679535959 no tiene inversa mod 2131777746 (NE)
 2756384833
 53129521
 3418350818
 2887016497
 24289241
 1486616489
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6120455675 no tiene inversa mod 2524448515 (NE)
+Error: 1576698492 no tiene inversa mod 404354466 (NE)
+Error: 5613684644 no tiene inversa mod 821324978 (NE)
+Error: 2344170842 no tiene inversa mod 995401026 (NE)
 716120868
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6205592968 no tiene inversa mod 715136930 (NE)
 1632470929
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 2668947714 no tiene inversa mod 6861547059 (NE)
+Error: 5036155932 no tiene inversa mod 3763828737 (NE)
 3923791975
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 8699985650 no tiene inversa mod 4933382035 (NE)
 4155427081
 1805059786
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6455171252 no tiene inversa mod 7715936376 (NE)
 3258275885
 3266921941
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6662114319 no tiene inversa mod 8393780229 (NE)
+Error: 9986590594 no tiene inversa mod 6298904930 (NE)
 6259799
-Error: 0 no tiene inversa mod 11 (NE)
+Error: 2158655686 no tiene inversa mod 2854650755 (NE)
 227942558
 2005218262
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3970134898 no tiene inversa mod 7448090758 (NE)
 3065693261
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 3267890645 no tiene inversa mod 7158252735 (NE)
 1018695399
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4393010244 no tiene inversa mod 4215081222 (NE)
 188627988
 1767845511
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 9684473337 no tiene inversa mod 8797336155 (NE)
 4196640817
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 4980430444 no tiene inversa mod 7186014384 (NE)
 144224323
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 7266706209 no tiene inversa mod 426657708 (NE)
 975735229
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 36 (NE)
+Error: 9868149614 no tiene inversa mod 7493107772 (NE)
+Error: 9784800612 no tiene inversa mod 515896020 (NE)
 6929019833
-Error: 0 no tiene inversa mod 1160 (NE)
-Error: 0 no tiene inversa mod 27 (NE)
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 8861389640 no tiene inversa mod 2351987000 (NE)
+Error: 2787857001 no tiene inversa mod 8364153663 (NE)
+Error: 6522971920 no tiene inversa mod 2513912850 (NE)
 2809815486
 2518786403
-Error: 0 no tiene inversa mod 12 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4927442052 no tiene inversa mod 5844527196 (NE)
+Error: 783709254 no tiene inversa mod 6778391211 (NE)
+Error: 1804608339 no tiene inversa mod 7329275676 (NE)
 7937000783
 553293979
 934731691
 3368141896
 528216801
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9627696393 no tiene inversa mod 564590667 (NE)
+Error: 8545554423 no tiene inversa mod 8683876023 (NE)
 1543368380
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 4614727299 no tiene inversa mod 5671537004 (NE)
 1549312109
 208130375
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 849526569 no tiene inversa mod 8567892741 (NE)
 2164834842
 2139185435
 1901575681
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 3027769596 no tiene inversa mod 3118543314 (NE)
 8063505368
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9570382782 no tiene inversa mod 313567648 (NE)
 1601051369
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7074147922 no tiene inversa mod 5363106126 (NE)
+Error: 679151406 no tiene inversa mod 5524737672 (NE)
+Error: 5688816132 no tiene inversa mod 2041061805 (NE)
+Error: 1041228580 no tiene inversa mod 3953377458 (NE)
+Error: 1801379240 no tiene inversa mod 3703713318 (NE)
 4847589010
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3184950543 no tiene inversa mod 4511905029 (NE)
 1614559496
 461041460
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2267952754 no tiene inversa mod 2650589090 (NE)
 2731011817
 4037073678
 4676491894
 3728366356
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 272 (NE)
+Error: 9016190253 no tiene inversa mod 8335964266 (NE)
+Error: 6908081648 no tiene inversa mod 9050063424 (NE)
 2505948408
 5297591918
-Error: 0 no tiene inversa mod 37 (NE)
+Error: 8109276162 no tiene inversa mod 7777336471 (NE)
 3737513479
-Error: 0 no tiene inversa mod 36 (NE)
+Error: 7895217888 no tiene inversa mod 5719559436 (NE)
 1145741898
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 410004696 no tiene inversa mod 5681293828 (NE)
 158888695
 3230114172
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1557624780 no tiene inversa mod 8785305476 (NE)
 1517204613
 1008066810
 579400942
 1221159837
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5432342116 no tiene inversa mod 5314822102 (NE)
 1212915188
 147752009
 2596138140
 168038865
 2110182131
 8711135353
-Error: 0 no tiene inversa mod 10 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 357472240 no tiene inversa mod 3351362350 (NE)
+Error: 7887387776 no tiene inversa mod 5744564888 (NE)
 45255409
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2040063588 no tiene inversa mod 3616719860 (NE)
+Error: 6162068308 no tiene inversa mod 1385081594 (NE)
 3002788315
 130019562
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 8043950814 no tiene inversa mod 8284395375 (NE)
+Error: 3179533026 no tiene inversa mod 6350569728 (NE)
 5047184338
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 7705300272 no tiene inversa mod 207919884 (NE)
 69543751
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6273201986 no tiene inversa mod 2935752454 (NE)
 641176756
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6987277020 no tiene inversa mod 2204238807 (NE)
 3935750023
 3866031609
 4632386089
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7756047698 no tiene inversa mod 6520748826 (NE)
 941314426
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2833651912 no tiene inversa mod 1288406414 (NE)
 3004088220
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7294800112 no tiene inversa mod 6864656798 (NE)
 8832375496
 1125546733
 1367399756
 1987240
 1952466941
 1359941909
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 9530739201 no tiene inversa mod 3951701583 (NE)
+Error: 3912734148 no tiene inversa mod 3264188732 (NE)
 1976462251
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 9606525265 no tiene inversa mod 4913796040 (NE)
 583209330
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8253627022 no tiene inversa mod 9633523012 (NE)
 3576482351
 4215447719
 254690963
 4068906571
-Error: 0 no tiene inversa mod 17 (NE)
+Error: 1761883519 no tiene inversa mod 1834302703 (NE)
 1049464513
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 68 (NE)
+Error: 4022014959 no tiene inversa mod 6265250292 (NE)
+Error: 3402914568 no tiene inversa mod 3650310678 (NE)
+Error: 5805189036 no tiene inversa mod 7047348436 (NE)
 178667721
 916981099
 5283169687
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3460477620 no tiene inversa mod 3627108116 (NE)
 4089790813
 21148261
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7646281035 no tiene inversa mod 5437483143 (NE)
 652995161
 3420082878
 3944677269
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 1992661048 no tiene inversa mod 5180540155 (NE)
 1471762401
 4393006652
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4179563920 no tiene inversa mod 5619016198 (NE)
 8923538922
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8909370644 no tiene inversa mod 9407841778 (NE)
 437840133
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 4827315702 no tiene inversa mod 3234136848 (NE)
 1527324766
-Error: 0 no tiene inversa mod 20 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7312188440 no tiene inversa mod 6580795980 (NE)
+Error: 1013201286 no tiene inversa mod 1196598729 (NE)
 480100001
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 177011342 no tiene inversa mod 1842238964 (NE)
+Error: 8284162854 no tiene inversa mod 8317144216 (NE)
+Error: 7758276406 no tiene inversa mod 4763735862 (NE)
+Error: 1765432430 no tiene inversa mod 8140560394 (NE)
+Error: 1066714915 no tiene inversa mod 3742991308 (NE)
+Error: 5483648779 no tiene inversa mod 8243947649 (NE)
+Error: 4232514150 no tiene inversa mod 3908788796 (NE)
 1377772848
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 8128400097 no tiene inversa mod 923379720 (NE)
+Error: 9924664496 no tiene inversa mod 894877884 (NE)
+Error: 5864922600 no tiene inversa mod 5649343892 (NE)
 2285723189
 602712286
 1999540953
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 6270932466 no tiene inversa mod 9859372467 (NE)
 51346033
 808136801
 789295018
@@ -6665,64 +6665,64 @@ Error: 0 no tiene inversa mod 3 (NE)
 374578443
 1890855439
 5528611
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6550957856 no tiene inversa mod 4408110396 (NE)
 7486566415
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1357278990 no tiene inversa mod 6088029453 (NE)
 7323193356
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 14 (NE)
+Error: 9453326536 no tiene inversa mod 6859977240 (NE)
+Error: 9108395506 no tiene inversa mod 1375210774 (NE)
 5880490201
 867818314
 3634203870
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 12 (NE)
+Error: 6252554441 no tiene inversa mod 9641265571 (NE)
+Error: 8722646702 no tiene inversa mod 1842607552 (NE)
+Error: 7976914272 no tiene inversa mod 8826927036 (NE)
 3187786051
 499807479
 850648982
 27140570
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8489949478 no tiene inversa mod 2566513036 (NE)
+Error: 3176540596 no tiene inversa mod 3254516134 (NE)
 405310768
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 124690350 no tiene inversa mod 3339711922 (NE)
 997320040
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 971772102 no tiene inversa mod 4032172795 (NE)
 4950502905
 1240878502
-Error: 0 no tiene inversa mod 82 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1828587454 no tiene inversa mod 8185884602 (NE)
+Error: 2967430986 no tiene inversa mod 4450905801 (NE)
+Error: 614517918 no tiene inversa mod 6130053212 (NE)
 3069695462
-Error: 0 no tiene inversa mod 6 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 3776487666 no tiene inversa mod 3247770612 (NE)
+Error: 1819653813 no tiene inversa mod 6644750808 (NE)
 67028262
 7190056484
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3964435840 no tiene inversa mod 1109631254 (NE)
 8912303250
 161673774
 4192312993
 9052932590
 2058624863
 5761500403
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2499022752 no tiene inversa mod 3161191802 (NE)
 4389272633
 351259091
-Error: 0 no tiene inversa mod 10 (NE)
+Error: 6655377240 no tiene inversa mod 723276010 (NE)
 700030490
 586170061
 6171318439
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 406741472 no tiene inversa mod 6694832238 (NE)
+Error: 1004483184 no tiene inversa mod 1745033668 (NE)
 2087546370
 4743772369
-Error: 0 no tiene inversa mod 36 (NE)
+Error: 1457519220 no tiene inversa mod 4892410728 (NE)
 42435213
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2275577488 no tiene inversa mod 7051146276 (NE)
+Error: 214338158 no tiene inversa mod 6029535390 (NE)
 1766761057
 2631965689
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 31 (NE)
+Error: 2279282626 no tiene inversa mod 4155392978 (NE)
+Error: 4638351471 no tiene inversa mod 6226135046 (NE)
 2771812548
 673734980
 33689899
@@ -6732,29 +6732,29 @@ Error: 0 no tiene inversa mod 31 (NE)
 5625596357
 2984306066
 1802355823
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7157458431 no tiene inversa mod 9904163592 (NE)
 3831291002
-Error: 0 no tiene inversa mod 8 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 2585361848 no tiene inversa mod 7906359352 (NE)
+Error: 3423423924 no tiene inversa mod 5727580856 (NE)
 2943089181
 7278033261
 2289571043
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 503036610 no tiene inversa mod 8648318615 (NE)
 2786385182
 1798935061
-Error: 0 no tiene inversa mod 22 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 5404303124 no tiene inversa mod 8250928026 (NE)
+Error: 9538275145 no tiene inversa mod 6262991920 (NE)
 488961056
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7934447995 no tiene inversa mod 3032714430 (NE)
+Error: 5052432621 no tiene inversa mod 4078621227 (NE)
 7370459539
 2748060065
 3624971073
-Error: 0 no tiene inversa mod 13 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1729676104 no tiene inversa mod 8548304505 (NE)
+Error: 887520436 no tiene inversa mod 6424197950 (NE)
+Error: 4869600660 no tiene inversa mod 8491566874 (NE)
 4119868792
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5209467819 no tiene inversa mod 7383964407 (NE)
 1765572901
 145061186
 7307843471
@@ -6769,158 +6769,158 @@ Error: 0 no tiene inversa mod 3 (NE)
 4760531203
 6314319649
 1850699818
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 6679898025 no tiene inversa mod 8132076230 (NE)
 2186275919
 722180999
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3531721964 no tiene inversa mod 946435620 (NE)
 158625887
 1748422933
 1208954027
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6260271240 no tiene inversa mod 6741177807 (NE)
+Error: 7311853018 no tiene inversa mod 930964718 (NE)
+Error: 18028282 no tiene inversa mod 5323321962 (NE)
+Error: 1083344420 no tiene inversa mod 7075992716 (NE)
 4248394992
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7786779750 no tiene inversa mod 966398648 (NE)
+Error: 5432286309 no tiene inversa mod 4804695534 (NE)
 8055337046
-Error: 0 no tiene inversa mod 14 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 4119451994 no tiene inversa mod 4803153572 (NE)
+Error: 2635071774 no tiene inversa mod 5822257130 (NE)
 5547248447
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9592929375 no tiene inversa mod 2967088224 (NE)
 5545790966
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 636399138 no tiene inversa mod 1943283370 (NE)
 1493326887
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 8292130705 no tiene inversa mod 6351301145 (NE)
 2574583619
 1709367713
 32214273
 845189548
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 5284959144 no tiene inversa mod 6486008307 (NE)
 5891844331
 3240294266
-Error: 0 no tiene inversa mod 154 (NE)
+Error: 240165310 no tiene inversa mod 8218562198 (NE)
 3515473501
 6982953401
 672261713
-Error: 0 no tiene inversa mod 70 (NE)
+Error: 2063815950 no tiene inversa mod 265837460 (NE)
 8559111413
 2153143981
 195080828
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 2347724907 no tiene inversa mod 2473606152 (NE)
 3923882223
 1113146215
-Error: 0 no tiene inversa mod 11 (NE)
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 8905309182 no tiene inversa mod 7828328497 (NE)
+Error: 3113103568 no tiene inversa mod 6343954040 (NE)
 2431422999
 1226981239
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 1873415256 no tiene inversa mod 11678253 (NE)
 1008082345
 533093048
 1853641943
 2620340610
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 1041868840 no tiene inversa mod 7870696958 (NE)
 1085938508
 2900779435
 60305764
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 3064801312 no tiene inversa mod 1739602668 (NE)
 1876914599
 1187627721
 1471566790
 1555060702
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 2033703434 no tiene inversa mod 3359050090 (NE)
+Error: 3945199348 no tiene inversa mod 3118101412 (NE)
+Error: 6530704878 no tiene inversa mod 9610648668 (NE)
 5962199450
 5561192741
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 429021086 no tiene inversa mod 6661851860 (NE)
 2582987350
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 9689731738 no tiene inversa mod 7526060966 (NE)
 359006792
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 5921240372 no tiene inversa mod 2672971386 (NE)
+Error: 1120244251 no tiene inversa mod 3498335379 (NE)
+Error: 6007115098 no tiene inversa mod 8624843874 (NE)
 1460460127
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 714207746 no tiene inversa mod 8901270282 (NE)
 1732279185
 224451069
 32856746
 5248176634
 1600382451
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 7 (NE)
+Error: 780128718 no tiene inversa mod 2297189726 (NE)
+Error: 9882750409 no tiene inversa mod 4565799350 (NE)
 1040251801
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8653261550 no tiene inversa mod 2573785314 (NE)
 923997757
 4819323293
-Error: 0 no tiene inversa mod 12 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6427177800 no tiene inversa mod 612612204 (NE)
+Error: 643291622 no tiene inversa mod 584778158 (NE)
 209685685
 525048742
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 7289265540 no tiene inversa mod 6733077858 (NE)
 115806835
 463539182
 2326633361
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 4121087500 no tiene inversa mod 6461237826 (NE)
+Error: 9284902785 no tiene inversa mod 2051181594 (NE)
 29480291
 1006738264
 719266953
 1349284165
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9596359698 no tiene inversa mod 9330794127 (NE)
 560477861
 504973681
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 3854466494 no tiene inversa mod 754307874 (NE)
 4248762746
 5598290648
 543798034
 966214417
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6258669575 no tiene inversa mod 3175302380 (NE)
+Error: 7009775030 no tiene inversa mod 3920022308 (NE)
 70765981
 1308285656
 519108733
 678829363
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 7757674108 no tiene inversa mod 6273085412 (NE)
 8332941
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 4234089036 no tiene inversa mod 2142076893 (NE)
 1993927691
 792233222
 4925876398
 3805928663
 2415634409
 3176406538
-Error: 0 no tiene inversa mod 7 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 349655047 no tiene inversa mod 3757594155 (NE)
+Error: 5272134342 no tiene inversa mod 5791989885 (NE)
 1735735231
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9231511791 no tiene inversa mod 8911981701 (NE)
 8017469846
 5275764716
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 997094290 no tiene inversa mod 3371215074 (NE)
 984379069
 1476339391
 1222395713
 4155182349
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 7960043703 no tiene inversa mod 1172682249 (NE)
 147443481
 503216929
-Error: 0 no tiene inversa mod 18 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7280599014 no tiene inversa mod 3208445730 (NE)
+Error: 5077265890 no tiene inversa mod 6942038625 (NE)
+Error: 8343187830 no tiene inversa mod 6500315282 (NE)
 2884401037
 2730139470
 4134578618
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 48 (NE)
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 6431814051 no tiene inversa mod 5929654173 (NE)
+Error: 7312315077 no tiene inversa mod 3314090904 (NE)
+Error: 5009448156 no tiene inversa mod 6457467370 (NE)
+Error: 2775379152 no tiene inversa mod 6320646048 (NE)
+Error: 8702930388 no tiene inversa mod 5861991570 (NE)
 34690045
 824264036
 328639241
 7098484057
 4180423375
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 6391914020 no tiene inversa mod 7627325732 (NE)
 11063018
 1232016927
 1592034803
@@ -6928,29 +6928,29 @@ Error: 0 no tiene inversa mod 4 (NE)
 332535550
 407010009
 5501604481
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 1501873324 no tiene inversa mod 5522063188 (NE)
 2204987368
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 2868185902 no tiene inversa mod 9678860638 (NE)
 442847854
 5947008541
 4634754521
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 4 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 5 (NE)
+Error: 2777844622 no tiene inversa mod 9755323818 (NE)
+Error: 7581066736 no tiene inversa mod 2433531100 (NE)
+Error: 5504051235 no tiene inversa mod 1187424093 (NE)
+Error: 1375249530 no tiene inversa mod 4685669425 (NE)
 4523237069
 4537922771
 557635269
 3904814301
 2137393532
 321500811
-Error: 0 no tiene inversa mod 4 (NE)
+Error: 77193996 no tiene inversa mod 5004036124 (NE)
 3266652881
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7804593226 no tiene inversa mod 7657335782 (NE)
 1340988625
 514780233
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 3 (NE)
+Error: 9046626544 no tiene inversa mod 4147559266 (NE)
+Error: 6366970158 no tiene inversa mod 7449844359 (NE)
 4906908733
 4558722393
 3645166929
@@ -6958,38 +6958,38 @@ Error: 0 no tiene inversa mod 3 (NE)
 68479847
 4708279
 2746296219
-Error: 0 no tiene inversa mod 8 (NE)
+Error: 9219937808 no tiene inversa mod 47413000 (NE)
 2823447763
 1839828261
 297688104
 2097128206
 776796121
 304055029
-Error: 0 no tiene inversa mod 2 (NE)
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8617292976 no tiene inversa mod 1533994862 (NE)
+Error: 728145604 no tiene inversa mod 3064778490 (NE)
 1191770561
 70842813
 2272853683
 4300112133
 2209421341
-Error: 0 no tiene inversa mod 3 (NE)
-Error: 0 no tiene inversa mod 46 (NE)
+Error: 7055538456 no tiene inversa mod 2599381023 (NE)
+Error: 9360950642 no tiene inversa mod 7321479324 (NE)
 1670841451
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 7272607592 no tiene inversa mod 9656270094 (NE)
 3104075629
-Error: 0 no tiene inversa mod 9 (NE)
+Error: 1952122068 no tiene inversa mod 4460691915 (NE)
 284638817
 4384914908
 1632331051
 6702810764
 3988631216
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 8449089794 no tiene inversa mod 4057061088 (NE)
 5633804086
 3235819286
-Error: 0 no tiene inversa mod 6 (NE)
+Error: 5835267402 no tiene inversa mod 8970603840 (NE)
 1167434789
 2765764636
-Error: 0 no tiene inversa mod 2 (NE)
+Error: 6903441182 no tiene inversa mod 6699299498 (NE)
 170863507
 2992343325
 2128742201

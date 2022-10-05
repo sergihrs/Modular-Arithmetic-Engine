@@ -199,10 +199,30 @@ class Module:
         Devuelve una tupla (d,x) donde d es el mcd de los coeficientes y x es una solucion particular
         de d = c1*x1 + c2*x2 + ... + cn*xn
         """
+        length = len(nlist)
         coeffs = [
-            np.array([0] * i + [1] + [0] * (len(nlist) - i - 1))
-            for i in range(len(nlist))
+            np.array([0] * i + [1] + [0] * (length - i - 1)) for i in range(length)
         ]
+        i = 0
+        count_zeros = 0
+        while count_zeros != length - 1:
+            m = nlist[i]
+            if m == 0:
+                i = (i + 1) % length
+                continue
+            count_zeros = 0
+            for j in range(length):
+                if i == j:
+                    continue
+                num = nlist[j]
+                if num == 0:
+                    count_zeros += 1
+                    continue
+                nlist[j] = num % m
+                coeffs[j] -= coeffs[i] * (num // m)
+                # print(nlist, list(coeffs))
+            i = (i + 1) % length
+        return m, list(coeffs[(i - 1) % length])
 
     def coprimos_module(self, a: int, b: int) -> bool:
         """
@@ -459,6 +479,23 @@ def bezout(a: int, b: int) -> tuple[int, int, int]:
     return imatlab_module.bezout_module(a, b)
 
 
+def mcd_n(nlist: list[int]) -> int:
+    """
+    [Z] -> Z
+    Devuelve el maximo comun divisor de los elementos de la lista
+    """
+    return imatlab_module.mcd_n_module(nlist)
+
+
+def bezout_n(nlist: list[int]) -> tuple[int, list[int]]:
+    """
+    [Z] -> (Z, [Z])
+    Devuelve una tupla (d, x) donde d es el mcd de los elementos de la lista y x es una lista de soluciones particulares de
+    d = x1 * n1 + x2 * n2 + ... + xn * nn
+    """
+    return imatlab_module.bezout_n_module(nlist)
+
+
 def coprimos(a: int, b: int) -> bool:
     """
     Z x Z -> Bool
@@ -534,9 +571,4 @@ def ecuacion_cuadratica(a: int, b: int, c: int, p: int) -> tuple[int, int]:
 
 if __name__ == "__main__":
     # print(resolver_sistema_congruencias([6519037604], [8972153143], [1297334945]))
-    eqs = "[4010896780;7020393462;1139],[9417763417;3172836023;145853]"
-    print(
-        resolver_sistema_congruencias(
-            [4010896780, 9417763417], [7020393462, 3172836023], [1139, 145853]
-        )
-    )
+    print(bezout_n([37, 15, 12, 22, 91, 49, 101]))

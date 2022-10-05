@@ -91,8 +91,8 @@ if __name__ == "__main__":
         # "tests/potenciaTest.txt",
         # "tests/invTest.txt",
         # "tests/eulerTest.txt",
-        "tests/sistemaTest.txt",
-        # "tests/cuadraticaTest.txt",
+        # "tests/sistemaTest.txt",
+        "tests/cuadraticaTest.txt",
     ]
 
     out_files = [
@@ -102,8 +102,8 @@ if __name__ == "__main__":
         # "tests/potenciaOut.txt",
         # "tests/invOut.txt",
         # "tests/eulerOut.txt",
-        "tests/sistemaOut2.txt",
-        # "tests/cuadraticaOut.txt",
+        # "tests/sistemaOut2.txt",
+        "tests/cuadraticaOut.txt",
     ]
 
     # Lista de tiempos obtenidos
