@@ -1,0 +1,16 @@
+{
+    "sergio": {
+        "nombre": "sergio",
+        "contrase\u00f1a": "admin",
+        "pk": [578861116853383477093, 65537],
+        "sk": [578861116853383477093, 126659267512797663233],
+        "contactos": {}
+    },
+    "sergi": {
+        "nombre": "sergi",
+        "contrase\u00f1a": "pepitogrillo19",
+        "pk": [82993, 65537],
+        "sk": [82993, 19969],
+        "contactos": {}
+    }
+}

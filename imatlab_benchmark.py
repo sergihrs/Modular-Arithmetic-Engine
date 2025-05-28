@@ -16,13 +16,14 @@ y/o hacer un perfilado (profiling) del código usando cada uno de los ficheros p
 Coméntese alguna de estas líneas si no se desea hacer el benchmarking o el profiling.
 """
 
+
 import timeit
 import cProfile
 import imatlab
 
 # Número de repeticiones de la toma de tiempos.
 # Aumentarlo disminuye efectos aleatorios o casuales en el código, pero aumenta el coste de ejecución.
-NITERS = 100
+NITERS = 1
 
 
 def testRun(in_file: str, out_file: str):
@@ -55,8 +56,10 @@ def measureTime(in_file: str, out_file: str) -> float:
     Raises:
         IOError: Alguno de los ficheros no existe.
     """
+    print("Starting timeit...")
     t = timeit.Timer(
-        "testRun('" + in_file + "','" + out_file + "')", "from __main__ import testRun"
+        "testRun('" + in_file + "','" + out_file +
+        "')", "from __main__ import testRun"
     )
     return t.timeit(number=NITERS) / NITERS
 
@@ -73,7 +76,8 @@ def profile(in_file, out_file):
     Raises:
         IOError: Alguno de los ficheros no existe.
     """
-    cProfile.run("testRun('" + in_file + "','" + out_file + "')")
+    cProfile.run("testRun('" + in_file + "','" +
+                 out_file + "')", sort="cumtime")
 
 
 if __name__ == "__main__":
@@ -83,16 +87,37 @@ if __name__ == "__main__":
     #            "invTest.txt","eulerTest.txt","sistemaTest.txt","cuadraticaTest.txt"]
     # out_files=["primosTest_out.txt","factorTest_out.txt","mcdTest_out.txt","potenciaTest_out.txt",
     #            "invTest_out.txt","eulerTest_out.txt","sistemaTest_out.txt","cuadraticaTest_out.txt"]
-    in_files = ["tests/ejemplosComandos.txt"]
-    out_files = ["tests/ejemplosSalida_mios.txt"]
+    in_files = [
+        "tests/primosTest.txt",
+        "tests/factorTest.txt",
+        "tests/mcdTest.txt",
+        "tests/potenciaTest.txt",
+        "tests/invTest.txt",
+        "tests/eulerTest.txt",
+        "tests/sistemaTest.txt",
+        "tests/cuadraticaTest.txt",
+        "tests/ejemplosComandos.txt",
+    ]
+
+    out_files = [
+        "tests/primosOut.txt",
+        "tests/factorOut.txt",
+        "tests/mcdOut.txt",
+        "tests/potenciaOut.txt",
+        "tests/invOut.txt",
+        "tests/eulerOut.txt",
+        "tests/sistemaOut.txt",
+        "tests/cuadraticaOut.txt",
+        "tests/ejemplosComandosOut.txt",
+    ]
 
     # Lista de tiempos obtenidos
     runtime = []
     for i in range(0, len(in_files)):
         # Comentar una línea o la otra para alternar benchmarking/profiling
         try:
-            runtime.append(measureTime(in_files[i], out_files[i]))
-        #    profile(in_files[i],out_files[i])
+            runtime.append(round(measureTime(in_files[i], out_files[i]), 5))
+            # profile(in_files[i], out_files[i])
         except IOError:
             runtime.append(0)
             print("El fichero " + in_files[i] + " no existe.\n")

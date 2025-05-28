@@ -1,0 +1,13 @@
+primo(-4)
+primo(0)
+primo(1)
+primo(999983)
+primo(96998351)
+primos(14,16)
+primos(-3,0)
+primos(1000000,1000050)
+factorizar(1)
+factorizar(0)
+factorizar(-96998351)
+holi
+primo(a)

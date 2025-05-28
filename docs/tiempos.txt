@@ -1,0 +1,9 @@
+función,         msi,        icai,       oro     result
+primosTest,      0.301,      0.602,      0.73    MH
+factorTest,      0.231,      0.476,      1.99    MH
+mcdTest,         0.492,      0.956,      1.00    Oro
+potenciaTest,    0.0589,     0.116,      0.12    Oro
+invTest,         1.343,      2.239,      3.125   Oro
+eulerTest,       0.222,      0.422,      0.78    Oro
+sistemaTest,     0.0585,     0.0952,     0.988   MH
+cuadraticaTest,  0.0426,     0.0831,     0.218   MH
